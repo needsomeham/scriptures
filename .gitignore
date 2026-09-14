@@ -1,0 +1,13 @@
+# Obsidian per-machine state (keep the vault itself, not your window layout)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Cowork scratch
+.write-test

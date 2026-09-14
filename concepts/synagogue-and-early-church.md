@@ -1,0 +1,13 @@
+---
+title: Synagogue and Early Church
+type: concept
+tags: [synagogue, judaism, early-church, institutions]
+created: 2026-09-14
+sources: [B-09, B-11, B-14]
+---
+**In one line:** The first-century synagogue — a local Jewish gathering/reading institution, not yet the rabbinic institution of later centuries — is the closest structural model for how the earliest Jesus-movement assemblies met, taught, and (eventually) split off.
+**What it is:** By the first century CE, synagogues (Greek synagōgē, "gathering") existed both in Judea/Galilee and pervasively across the Diaspora as places for Torah reading, prayer, and community organization — predating and independent of the Jerusalem Temple, which they did not replace but supplemented. Leadership (an archisynagōgos, "ruler of the synagogue," appears in the Gospels and Acts) was local and lay, not yet the rabbinic-scribal authority structure that developed after 70 CE.
+**Why it matters for reading the NT:** Explains the pattern in Acts where Paul's mission strategy is repeatedly "to the synagogue first" (Acts 13:14, 17:1–2, etc.) — he is working within an existing Diaspora institution that already included God-fearing Gentile sympathizers, not founding something without precedent. It also frames the Gospels' synagogue conflict stories (e.g. Luke 4:16–30) as intra-Jewish institutional controversy, and clarifies why early Christian gatherings borrowed synagogue patterns (scripture reading, teaching, communal meal) before developing distinct church structures.
+**State of scholarship:** That first-century synagogues were primarily local assembly/reading institutions rather than centers of a fixed, codified rabbinic authority is **majority view**, following archaeological and epigraphic work (e.g. by Lee Levine) that pushed back against retrojecting later rabbinic synagogue structure into the first century. The exact process and date of the "parting of the ways" between synagogue Judaism and the Jesus movement is **contested** — some scholars (e.g. Daniel Boyarin) argue the boundary stayed blurred well into the 2nd–4th centuries in various regions, against an older **majority view** of an early, sharp 1st-century split (sometimes tied to the *Birkat ha-Minim* "blessing against heretics," itself of disputed date and function).
+**Where it breaks / cautions:** Avoid assuming a single synagogue "expulsion event" (e.g. reading John 9:22's "put out of the synagogue" as evidence of an empire-wide 1st-century policy) — the evidence suggests local, gradual, and regionally uneven separations rather than one uniform decree.
+**Links:** [[moc-nt-background]] · [[second-temple-judaism]] · [[bg-sanders-judaism-practice-belief]] · [[bg-josephus-whiston-perseus]]

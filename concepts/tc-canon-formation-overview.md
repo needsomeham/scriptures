@@ -1,0 +1,13 @@
+---
+title: Canon formation overview
+type: concept
+tags: [canon, history]
+created: 2026-09-14
+sources: [T-22]
+---
+**In one line:** The 27-book NT canon emerged gradually over several centuries through recognition of already-authoritative texts, not a single decree — two landmark witnesses (the Muratorian Fragment and Athanasius's 39th Festal Letter) bracket the process.
+**What it is:** The **Muratorian Fragment** is a damaged Latin manuscript (discovered by L. A. Muratori, 18th c.) listing NT books accepted at Rome; its traditional dating is late 2nd century (c. 170-200), though a `minority view` (notably Sundberg, Hahneman) argues for a 4th-century Eastern origin — this dating question is itself genuinely `contested` in scholarship, not settled. It already lists the four Gospels, Acts, most Pauline letters, and some (not all) of what became the rest of the NT, while explicitly excluding some texts and noting disputes over others. **Athanasius of Alexandria's 39th Festal (Easter) Letter (367 CE)** is the earliest surviving document to list exactly the 27 books of the modern NT canon as a closed, authoritative set, with no more and no fewer [T-22]. Between these points, criteria commonly cited by scholars for eventual inclusion include: apostolic authorship or close association, widespread and early liturgical use across churches, and theological consistency with the "rule of faith" — but no single church council *created* the canon; regional councils (e.g., Carthage, 397) later ratified an already largely-settled list.
+**Why it matters for reading the NT:** Canon and text are separate questions — a book being canonical says nothing about how well its wording is textually reconstructed (that's the rest of this vault's textual-criticism domain), and conflating the two is a common category error.
+**State of scholarship:** That a 27-book consensus existed in the East by 367 (Athanasius) is `consensus`; the precise process, criteria, and how contested individual books (e.g., Hebrews, Revelation, James, 2 Peter) were in various regions well into the 4th century is `majority view` among historians but the Muratorian Fragment's date/origin specifically is `contested`.
+**Where it breaks / cautions:** Popular claims that "the canon was decided at Nicaea (325)" are historically inaccurate — Nicaea did not address the canon; this is a widespread misconception worth flagging explicitly. Also avoid treating canon formation as evidence about text-critical reliability of any given book — they are independent lines of evidence.
+**Links:** [[moc-textual-criticism]] · [[moc-nt-background]]

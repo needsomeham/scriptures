@@ -1,0 +1,13 @@
+---
+title: Jewish Apocalyptic
+type: concept
+tags: [apocalyptic, eschatology, second-temple-judaism]
+created: 2026-09-14
+sources: [B-13, B-09, B-10]
+---
+**In one line:** A Second Temple Jewish literary and theological mode — cosmic dualism, revealed heavenly secrets, imminent divine intervention — that supplies the idiom of Jesus' "kingdom of God" preaching, Paul's eschatology, and Revelation wholesale.
+**What it is:** Apocalyptic literature (from Greek apokalypsis, "unveiling") flourished roughly 200 BCE–100 CE in texts like Daniel (the only full apocalypse in the Hebrew Bible), 1 Enoch, 4 Ezra, and 2 Baruch, and at Qumran. Common features: a heavenly mediator reveals hidden cosmic/historical secrets to a seer, history is divided into ages culminating in decisive divine judgment, and present suffering is reframed as the last stage before vindication — often addressed to communities under political pressure or persecution.
+**Why it matters for reading the NT:** Jesus' proclamation of the "kingdom of God" as imminent and disruptive, the Synoptic apocalyptic discourse (Mark 13 and parallels), Paul's language of "this age" vs. "the age to come," and the entire genre and imagery of Revelation (drawing directly on Daniel and echoing 1 Enoch) are illegible without this literary/theological background — a modern reader without it tends to either over-literalize the imagery or dismiss it as bizarre, missing that it follows recognizable period conventions.
+**State of scholarship:** That apocalyptic Judaism forms the primary matrix for Jesus' and Paul's eschatological language is **majority view**, established especially by Albert Schweitzer's early-20th-century "thoroughgoing eschatology" thesis and reinforced since by DSS discoveries. How central apocalyptic expectation was to Jesus' *own* self-understanding (vs. later community development) remains **contested** — compare the "apocalyptic Jesus" reading (Ehrman, following Schweitzer) against readings emphasizing Jesus primarily as sage/social critic (e.g. some Jesus Seminar scholarship), a genuine **minority view** by comparison.
+**Where it breaks / cautions:** Apocalyptic literature is not a single genre with fixed rules — Daniel, 1 Enoch, and Revelation differ in structure and function; avoid treating "apocalyptic" as a synonym for "predicting the end of the physical world," since most ancient apocalyptic texts are more concerned with vindicating the righteous and unveiling present hidden realities than forecasting cosmic destruction per se.
+**Links:** [[moc-nt-background]] · [[second-temple-judaism]] · [[bg-charlesworth-ot-pseudepigrapha]] · [[bg-sanders-judaism-practice-belief]] · [[bg-vermes-dead-sea-scrolls-english]]

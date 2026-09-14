@@ -1,0 +1,13 @@
+---
+title: The Coherence-Based Genealogical Method (CBGM)
+type: concept
+tags: [method, advanced, computational]
+created: 2026-09-14
+sources: [T-13, T-20, T-07]
+---
+**In one line:** A graph-based method, developed at Münster, that infers likely ancestor/descendant relationships among manuscript *texts* (not the physical manuscripts) from patterns of shared readings, used to build the ECM and inform NA29.
+**What it is:** Developed by Gerd Mink at INTF (Münster) for editing the Editio Critica Maior [T-07][T-20]. In engineering terms: each witness's text is treated as a node; for every variation unit, editors build a **local stemma** (a small directed graph of which reading plausibly gave rise to which other reading, via internal-evidence judgment). Aggregating agreement rates across all variation units yields a **pre-genealogical coherence** score between any two witnesses — how often they agree, independent of assumed direction. Iterating local-stemma direction decisions against these coherence scores (a witness's "potential ancestors" should be more prior and more coherent with it than chance) produces a global, revisable graph of **textual flow** — not a single fixed tree, since manuscripts can inherit readings from multiple ancestor lines (contamination), unlike a strict biological-style stemma [T-13][T-20].
+**Why it matters for reading the NT:** CBGM output is now part of how ECM/NA29 editorial decisions get made for Acts, Mark, and Revelation — understanding it explains *why* some post-2012 NA changes look different from older text-type reasoning, and it rewards exactly the graph/probabilistic intuition this learner already has.
+**State of scholarship:** CBGM adoption for editing the ECM is `majority view` among INTF-aligned editors and increasingly standard; it remains `contested` how much CBGM's coherence output should override traditional internal-evidence judgment when they conflict, and Byzantine-priority scholars (see [[tc-byzantine-priority-debate]]) and some thoroughgoing eclectics (Elliott) have raised methodological objections to treating agreement patterns as genealogically informative without independent controls [T-13].
+**Where it breaks / cautions:** CBGM is not a fully automated "solve for the original text" algorithm — local stemmata still depend on human internal-evidence judgment at each variation unit; the method describes *coherence*, not proven ancestry, and Mink himself stresses it's an aid to editorial judgment, not a replacement for it. An open-source implementation (open-cbgm, J. Joosten McCollum) exists for hands-on exploration.
+**Links:** [[moc-textual-criticism]] · [[tc-wasserman-gurry-cbgm]] · [[tc-ntvmr-intf-ecm]] · [[tc-text-types-and-manuscript-families]] · [[tc-reasoned-eclecticism]]

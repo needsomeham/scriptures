@@ -1,0 +1,13 @@
+---
+title: Honor-Shame Culture
+type: concept
+tags: [social-values, greco-roman-context, contested-model]
+created: 2026-09-14
+sources: [B-15, B-16]
+---
+**In one line:** A social-values model claiming honor (public reputation, ascribed or achieved) rather than individual guilt/innocence was the primary currency of first-century Mediterranean social life — widely used to read the NT, but contested as a monolithic grid.
+**What it is:** The model (developed from 20th-century Mediterranean anthropology and applied to the NT chiefly by the "Context Group" — Malina, Rohrbaugh, Neyrey, and popularized by deSilva) holds that ancient Mediterranean persons were primarily oriented toward public honor and the avoidance of shame, mediated through patron-client relationships, kinship obligation, and purity boundaries, in contrast to modern Western individualist/guilt-oriented ethics.
+**Why it matters for reading the NT:** Reframes many passages that read oddly through a modern lens: why genealogies matter (ascribed honor), why Jesus' table fellowship with "sinners" was scandalous (honor by association), why Paul boasts rhetorically in 2 Corinthians 11 (agonistic honor contest with rival teachers), and why crucifixion was chosen partly as a maximally *shaming* death, not only a painful one.
+**State of scholarship:** That honor and shame were significant, publicly salient values in the first-century Mediterranean world is **majority view**, well attested in Greco-Roman rhetorical and moral literature. That it functioned as *the* master key organizing most ancient social behavior, applied fairly uniformly via cross-cultural anthropological models, is **contested** — critics (e.g. Zeba Crook, Louise Lawrence, and later self-critique within the Context Group itself) argue the model was built on 20th-century circum-Mediterranean ethnography (Spain, Greece, North Africa) whose transfer to 1st-century Judea/Galilee/Asia Minor risks anachronism and flattens real differences between, say, rural Galilee, Hellenized Corinth, and Rome.
+**Where it breaks / cautions:** Don't apply honor-shame as an automatic decoder ring for every passage; check whether the specific claim is grounded in a primary source from the relevant region/period (inscriptions, Josephus, Greco-Roman moralists) rather than only in the cross-cultural model. Treat it as one lens among several (with patronage, purity, and kinship) rather than a single master theory.
+**Links:** [[moc-nt-background]] · [[roman-imperial-context]] · [[bg-desilva-honor-patronage-kinship-purity]] · [[bg-malina-rohrbaugh-social-science-commentary]]

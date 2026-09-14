@@ -1,0 +1,13 @@
+---
+title: Second Temple Judaism
+type: concept
+tags: [judaism, background, historical-context]
+created: 2026-09-14
+sources: [B-09, B-10, B-11, B-13, B-14]
+---
+**In one line:** The diverse, contested, Temple-centered Judaism of c. 516 BCE–70 CE that every NT writer and every early follower of Jesus assumed as their default religious world.
+**What it is:** "Second Temple Judaism" names the period between the rebuilding of the Jerusalem Temple after Babylonian exile and its destruction by Rome in 70 CE. It was not monolithic: Pharisees, Sadducees, Essenes, and other groups (per Josephus's fourfold scheme) held distinct views on resurrection, scripture, purity, and Rome, while a much larger "common Judaism" (E.P. Sanders's term) practiced Temple pilgrimage, Sabbath, food laws, and circumcision with less doctrinal precision than any one sect. Diaspora Judaism (e.g., Philo's Alexandria) added a further Hellenized layer.
+**Why it matters for reading the NT:** Nearly every NT controversy story, legal debate, and messianic claim only makes sense against specific Jewish debates of this period — e.g. Pharisaic vs. Sadducean disagreement over resurrection (Acts 23:8) is a real intra-Jewish fault line, not a Jesus-vs-Judaism dispute. Paul's self-description as a Pharisee (Phil 3:5) and his arguments about Torah only work if the reader knows what a first-century Pharisee actually believed and disputed.
+**State of scholarship:** That Second Temple Judaism was internally diverse rather than a single monolithic "background" is **consensus** since roughly the 1970s (a shift credited significantly to E.P. Sanders's *Paul and Palestinian Judaism*, 1977). How best to characterize its "center of gravity" is **contested**: Sanders's "covenantal nomism" (obedience as maintaining covenant status, not earning it) is a **majority view**, but dissenters (e.g., the *Justification and Variegated Nomism* project, ed. Carson/O'Brien/Seifrid, 2001) argue the sources show more diversity, including some genuinely legalistic strands, than Sanders's single pattern allows.
+**Where it breaks / cautions:** Avoid two anachronisms: (1) reading later rabbinic Judaism (codified after 200 CE in the Mishnah) back into the first century as if it were already fixed doctrine; (2) treating "Judaism" and "Christianity" as already-separate religions in this period — the Jesus movement operated inside Second Temple Judaism's boundaries for its first decades.
+**Links:** [[moc-nt-background]] · [[jewish-apocalyptic]] · [[synagogue-and-early-church]] · [[bg-sanders-judaism-practice-belief]] · [[bg-josephus-whiston-perseus]]
