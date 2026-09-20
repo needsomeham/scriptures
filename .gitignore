@@ -11,3 +11,7 @@ desktop.ini
 
 # Cowork scratch
 .write-test
+
+# Site build
+__pycache__/
+qa/screens/

@@ -1,0 +1,778 @@
+{
+ "slug": "1jn-1-1-4",
+ "ref": "1 John 1:1–4",
+ "source": "SBLGNT",
+ "subtitle": "first reading · aspect · fronting · variant units",
+ "bridge_note": "bridges/1-john-1-1-4-first-reading.md",
+ "license_note": "Greek text: SBL Greek New Testament (Logos/SBL). Morphology: MorphGNT, CC BY-SA 3.0.",
+ "gloss_note": "Glosses are deliberately wooden — they show the Greek's shape, not English style.",
+ "clauses": [
+  {
+   "n": 1,
+   "verse": 1,
+   "greek": "Ὃ ἦν ἀπ᾽ ἀρχῆς,",
+   "gloss": "That-which was from beginning,",
+   "words": [
+    {
+     "surface": "Ὃ",
+     "lemma": "ὅς",
+     "code": "RR ----NSN-",
+     "parse": "relative pronoun, nominative singular neuter",
+     "gloss": "that which",
+     "note": "Neuter — “that which,” not masculine “he whom.” Four times in v.1: the object is a reality, a message, before it is a person — and yet it is handled. (Observation 1)"
+    },
+    {
+     "surface": "ἦν",
+     "lemma": "εἰμί",
+     "code": "V- 3IAI-S--",
+     "parse": "imperfect active indicative, 3rd singular",
+     "gloss": "was",
+     "note": "Imperfect — the first of three tense-forms in one sentence: ἦν imperfect → perfect → aorist. (Observation 2)"
+    },
+    {
+     "surface": "ἀπ᾽",
+     "lemma": "ἀπό",
+     "code": "P- --------",
+     "parse": "preposition",
+     "gloss": "from"
+    },
+    {
+     "surface": "ἀρχῆς,",
+     "lemma": "ἀρχή",
+     "code": "N- ----GSF-",
+     "parse": "noun, genitive singular feminine",
+     "gloss": "a beginning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "verse": 1,
+   "greek": "ὃ ἀκηκόαμεν,",
+   "gloss": "that-which we-have-heard,",
+   "words": [
+    {
+     "surface": "ὃ",
+     "lemma": "ὅς",
+     "code": "RR ----ASN-",
+     "parse": "relative pronoun, accusative singular neuter",
+     "gloss": "that which",
+     "note": "Neuter — “that which,” not masculine “he whom.” Four times in v.1: the object is a reality, a message, before it is a person — and yet it is handled. (Observation 1)"
+    },
+    {
+     "surface": "ἀκηκόαμεν,",
+     "lemma": "ἀκούω",
+     "code": "V- 1XAI-P--",
+     "parse": "perfect active indicative, 1st plural",
+     "gloss": "we have heard",
+     "note": "Perfect. The choice encodes aspect — how the author frames the hearing — more than when it happened (majority view; what “perfect” means is contested)."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "verse": 1,
+   "greek": "ὃ ἑωράκαμεν τοῖς ὀφθαλμοῖς ἡμῶν,",
+   "gloss": "…we-have-seen with the eyes of-us,",
+   "words": [
+    {
+     "surface": "ὃ",
+     "lemma": "ὅς",
+     "code": "RR ----ASN-",
+     "parse": "relative pronoun, accusative singular neuter",
+     "gloss": "that which",
+     "note": "Neuter — “that which,” not masculine “he whom.” Four times in v.1: the object is a reality, a message, before it is a person — and yet it is handled. (Observation 1)"
+    },
+    {
+     "surface": "ἑωράκαμεν",
+     "lemma": "ὁράω",
+     "code": "V- 1XAI-P--",
+     "parse": "perfect active indicative, 1st plural",
+     "gloss": "we have seen",
+     "note": "Perfect. Aspect over time: the seeing is framed as a state that still stands (majority view; Porter/Fanning/Campbell differ on what the perfect means)."
+    },
+    {
+     "surface": "τοῖς",
+     "lemma": "ὁ",
+     "code": "RA ----DPM-",
+     "parse": "article, dative plural masculine",
+     "gloss": "the"
+    },
+    {
+     "surface": "ὀφθαλμοῖς",
+     "lemma": "ὀφθαλμός",
+     "code": "N- ----DPM-",
+     "parse": "noun, dative plural masculine",
+     "gloss": "eyes"
+    },
+    {
+     "surface": "ἡμῶν,",
+     "lemma": "ἐγώ",
+     "code": "RP ----GP--",
+     "parse": "personal pronoun, genitive plural",
+     "gloss": "of us, our"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "verse": 1,
+   "greek": "ὃ ἐθεασάμεθα καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν,",
+   "gloss": "…we-gazed-at, and the hands of-us handled,",
+   "words": [
+    {
+     "surface": "ὃ",
+     "lemma": "ὅς",
+     "code": "RR ----ASN-",
+     "parse": "relative pronoun, accusative singular neuter",
+     "gloss": "that which",
+     "note": "Neuter — “that which,” not masculine “he whom.” Four times in v.1: the object is a reality, a message, before it is a person — and yet it is handled. (Observation 1)"
+    },
+    {
+     "surface": "ἐθεασάμεθα",
+     "lemma": "θεάομαι",
+     "code": "V- 1AMI-P--",
+     "parse": "aorist middle indicative, 1st plural",
+     "gloss": "we gazed at",
+     "note": "Aorist (middle form, active sense — θεάομαι). The tense-form shifts again inside the same sentence."
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "αἱ",
+     "lemma": "ὁ",
+     "code": "RA ----NPF-",
+     "parse": "article, nominative plural feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "χεῖρες",
+     "lemma": "χείρ",
+     "code": "N- ----NPF-",
+     "parse": "noun, nominative plural feminine",
+     "gloss": "hands"
+    },
+    {
+     "surface": "ἡμῶν",
+     "lemma": "ἐγώ",
+     "code": "RP ----GP--",
+     "parse": "personal pronoun, genitive plural",
+     "gloss": "of us, our"
+    },
+    {
+     "surface": "ἐψηλάφησαν,",
+     "lemma": "ψηλαφάω",
+     "code": "V- 3AAI-P--",
+     "parse": "aorist active indicative, 3rd plural",
+     "gloss": "handled, felt over",
+     "note": "Aorist, and the subject changes to “the hands”: the neuter “that which” is something you can put your hands on."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "verse": 1,
+   "greek": "περὶ τοῦ λόγου τῆς ζωῆς—",
+   "gloss": "concerning the word of-the life—",
+   "words": [
+    {
+     "surface": "περὶ",
+     "lemma": "περί",
+     "code": "P- --------",
+     "parse": "preposition",
+     "gloss": "concerning"
+    },
+    {
+     "surface": "τοῦ",
+     "lemma": "ὁ",
+     "code": "RA ----GSM-",
+     "parse": "article, genitive singular masculine",
+     "gloss": "the"
+    },
+    {
+     "surface": "λόγου",
+     "lemma": "λόγος",
+     "code": "N- ----GSM-",
+     "parse": "noun, genitive singular masculine",
+     "gloss": "word"
+    },
+    {
+     "surface": "τῆς",
+     "lemma": "ὁ",
+     "code": "RA ----GSF-",
+     "parse": "article, genitive singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "ζωῆς—",
+     "lemma": "ζωή",
+     "code": "N- ----GSF-",
+     "parse": "noun, genitive singular feminine",
+     "gloss": "of life"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "verse": 2,
+   "greek": "καὶ ἡ ζωὴ ἐφανερώθη,",
+   "gloss": "and the life was-manifested,",
+   "words": [
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "ἡ",
+     "lemma": "ὁ",
+     "code": "RA ----NSF-",
+     "parse": "article, nominative singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "ζωὴ",
+     "lemma": "ζωή",
+     "code": "N- ----NSF-",
+     "parse": "noun, nominative singular feminine",
+     "gloss": "life"
+    },
+    {
+     "surface": "ἐφανερώθη,",
+     "lemma": "φανερόω",
+     "code": "V- 3API-S--",
+     "parse": "aorist passive indicative, 3rd singular",
+     "gloss": "was made visible"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "verse": 2,
+   "greek": "καὶ ἑωράκαμεν καὶ μαρτυροῦμεν καὶ ἀπαγγέλλομεν ὑμῖν τὴν ζωὴν τὴν αἰώνιον",
+   "gloss": "and we-have-seen and we-testify and we-announce to-you the life the eternal,",
+   "words": [
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "ἑωράκαμεν",
+     "lemma": "ὁράω",
+     "code": "V- 1XAI-P--",
+     "parse": "perfect active indicative, 1st plural",
+     "gloss": "we have seen",
+     "note": "Perfect. Aspect over time: the seeing is framed as a state that still stands (majority view; Porter/Fanning/Campbell differ on what the perfect means)."
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "μαρτυροῦμεν",
+     "lemma": "μαρτυρέω",
+     "code": "V- 1PAI-P--",
+     "parse": "present active indicative, 1st plural",
+     "gloss": "we testify"
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "ἀπαγγέλλομεν",
+     "lemma": "ἀπαγγέλλω",
+     "code": "V- 1PAI-P--",
+     "parse": "present active indicative, 1st plural",
+     "gloss": "we report back, announce",
+     "note": "The main verb the sentence has been waiting for since v.1 — it finally lands in v.3 (v.2's occurrence is inside the parenthesis)."
+    },
+    {
+     "surface": "ὑμῖν",
+     "lemma": "σύ",
+     "code": "RP ----DP--",
+     "parse": "personal pronoun, dative plural",
+     "gloss": "to you"
+    },
+    {
+     "surface": "τὴν",
+     "lemma": "ὁ",
+     "code": "RA ----ASF-",
+     "parse": "article, accusative singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "ζωὴν",
+     "lemma": "ζωή",
+     "code": "N- ----ASF-",
+     "parse": "noun, accusative singular feminine",
+     "gloss": "life"
+    },
+    {
+     "surface": "τὴν",
+     "lemma": "ὁ",
+     "code": "RA ----ASF-",
+     "parse": "article, accusative singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "αἰώνιον",
+     "lemma": "αἰώνιος",
+     "code": "A- ----ASF-",
+     "parse": "adjective, accusative singular feminine",
+     "gloss": "eternal"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "verse": 2,
+   "greek": "ἥτις ἦν πρὸς τὸν πατέρα καὶ ἐφανερώθη ἡμῖν—",
+   "gloss": "which was toward the Father and was-manifested to-us—",
+   "words": [
+    {
+     "surface": "ἥτις",
+     "lemma": "ὅστις",
+     "code": "RR ----NSF-",
+     "parse": "relative pronoun, nominative singular feminine",
+     "gloss": "which, of the kind that"
+    },
+    {
+     "surface": "ἦν",
+     "lemma": "εἰμί",
+     "code": "V- 3IAI-S--",
+     "parse": "imperfect active indicative, 3rd singular",
+     "gloss": "was",
+     "note": "Imperfect — the first of three tense-forms in one sentence: ἦν imperfect → perfect → aorist. (Observation 2)"
+    },
+    {
+     "surface": "πρὸς",
+     "lemma": "πρός",
+     "code": "P- --------",
+     "parse": "preposition",
+     "gloss": "toward, with"
+    },
+    {
+     "surface": "τὸν",
+     "lemma": "ὁ",
+     "code": "RA ----ASM-",
+     "parse": "article, accusative singular masculine",
+     "gloss": "the"
+    },
+    {
+     "surface": "πατέρα",
+     "lemma": "πατήρ",
+     "code": "N- ----ASM-",
+     "parse": "noun, accusative singular masculine",
+     "gloss": "Father"
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "ἐφανερώθη",
+     "lemma": "φανερόω",
+     "code": "V- 3API-S--",
+     "parse": "aorist passive indicative, 3rd singular",
+     "gloss": "was made visible"
+    },
+    {
+     "surface": "ἡμῖν—",
+     "lemma": "ἐγώ",
+     "code": "RP ----DP--",
+     "parse": "personal pronoun, dative plural",
+     "gloss": "to us"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "verse": 3,
+   "greek": "ὃ ἑωράκαμεν καὶ ἀκηκόαμεν ἀπαγγέλλομεν καὶ ὑμῖν,",
+   "gloss": "that-which we-have-seen and we-have-heard we-announce also to-you,",
+   "words": [
+    {
+     "surface": "ὃ",
+     "lemma": "ὅς",
+     "code": "RR ----ASN-",
+     "parse": "relative pronoun, accusative singular neuter",
+     "gloss": "that which",
+     "note": "Neuter — “that which,” not masculine “he whom.” Four times in v.1: the object is a reality, a message, before it is a person — and yet it is handled. (Observation 1)"
+    },
+    {
+     "surface": "ἑωράκαμεν",
+     "lemma": "ὁράω",
+     "code": "V- 1XAI-P--",
+     "parse": "perfect active indicative, 1st plural",
+     "gloss": "we have seen",
+     "note": "Perfect. Aspect over time: the seeing is framed as a state that still stands (majority view; Porter/Fanning/Campbell differ on what the perfect means)."
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "ἀκηκόαμεν",
+     "lemma": "ἀκούω",
+     "code": "V- 1XAI-P--",
+     "parse": "perfect active indicative, 1st plural",
+     "gloss": "we have heard",
+     "note": "Perfect. The choice encodes aspect — how the author frames the hearing — more than when it happened (majority view; what “perfect” means is contested)."
+    },
+    {
+     "surface": "ἀπαγγέλλομεν",
+     "lemma": "ἀπαγγέλλω",
+     "code": "V- 1PAI-P--",
+     "parse": "present active indicative, 1st plural",
+     "gloss": "we report back, announce",
+     "note": "The main verb the sentence has been waiting for since v.1 — it finally lands in v.3 (v.2's occurrence is inside the parenthesis)."
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "D- --------",
+     "parse": "adverb",
+     "gloss": "and"
+    },
+    {
+     "surface": "ὑμῖν,",
+     "lemma": "σύ",
+     "code": "RP ----DP--",
+     "parse": "personal pronoun, dative plural",
+     "gloss": "to you"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "verse": 3,
+   "greek": "ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ᾽ ἡμῶν·",
+   "gloss": "so-that also you may-have fellowship with us;",
+   "words": [
+    {
+     "surface": "ἵνα",
+     "lemma": "ἵνα",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "so that"
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "D- --------",
+     "parse": "adverb",
+     "gloss": "and"
+    },
+    {
+     "surface": "ὑμεῖς",
+     "lemma": "σύ",
+     "code": "RP ----NP--",
+     "parse": "personal pronoun, nominative plural",
+     "gloss": "you (plural)"
+    },
+    {
+     "surface": "κοινωνίαν",
+     "lemma": "κοινωνία",
+     "code": "N- ----ASF-",
+     "parse": "noun, accusative singular feminine",
+     "gloss": "sharing, fellowship"
+    },
+    {
+     "surface": "ἔχητε",
+     "lemma": "ἔχω",
+     "code": "V- 2PAS-P--",
+     "parse": "present active subjunctive, 2nd plural",
+     "gloss": "you may have"
+    },
+    {
+     "surface": "μεθ᾽",
+     "lemma": "μετά",
+     "code": "P- --------",
+     "parse": "preposition",
+     "gloss": "with"
+    },
+    {
+     "surface": "ἡμῶν·",
+     "lemma": "ἐγώ",
+     "code": "RP ----GP--",
+     "parse": "personal pronoun, genitive plural",
+     "gloss": "of us, our"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "verse": 3,
+   "greek": "καὶ ἡ κοινωνία δὲ ἡ ἡμετέρα μετὰ τοῦ πατρὸς καὶ μετὰ τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ·",
+   "gloss": "and the fellowship, the our-own, (is) with the Father and with the Son of-him, Jesus Christ;",
+   "words": [
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "D- --------",
+     "parse": "adverb",
+     "gloss": "and"
+    },
+    {
+     "surface": "ἡ",
+     "lemma": "ὁ",
+     "code": "RA ----NSF-",
+     "parse": "article, nominative singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "κοινωνία",
+     "lemma": "κοινωνία",
+     "code": "N- ----NSF-",
+     "parse": "noun, nominative singular feminine",
+     "gloss": "sharing, fellowship",
+     "note": "Wider than “fellowship”: association, participation or sharing in, even material contribution (BDAG). Range is consensus; the dominant sense here is contested."
+    },
+    {
+     "surface": "δὲ",
+     "lemma": "δέ",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and, now"
+    },
+    {
+     "surface": "ἡ",
+     "lemma": "ὁ",
+     "code": "RA ----NSF-",
+     "parse": "article, nominative singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "ἡμετέρα",
+     "lemma": "ἡμέτερος",
+     "code": "A- ----NSF-",
+     "parse": "adjective, nominative singular feminine",
+     "gloss": "our own"
+    },
+    {
+     "surface": "μετὰ",
+     "lemma": "μετά",
+     "code": "P- --------",
+     "parse": "preposition",
+     "gloss": "with"
+    },
+    {
+     "surface": "τοῦ",
+     "lemma": "ὁ",
+     "code": "RA ----GSM-",
+     "parse": "article, genitive singular masculine",
+     "gloss": "the"
+    },
+    {
+     "surface": "πατρὸς",
+     "lemma": "πατήρ",
+     "code": "N- ----GSM-",
+     "parse": "noun, genitive singular masculine",
+     "gloss": "Father"
+    },
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "μετὰ",
+     "lemma": "μετά",
+     "code": "P- --------",
+     "parse": "preposition",
+     "gloss": "with"
+    },
+    {
+     "surface": "τοῦ",
+     "lemma": "ὁ",
+     "code": "RA ----GSM-",
+     "parse": "article, genitive singular masculine",
+     "gloss": "the"
+    },
+    {
+     "surface": "υἱοῦ",
+     "lemma": "υἱός",
+     "code": "N- ----GSM-",
+     "parse": "noun, genitive singular masculine",
+     "gloss": "Son"
+    },
+    {
+     "surface": "αὐτοῦ",
+     "lemma": "αὐτός",
+     "code": "RP ----GSM-",
+     "parse": "personal pronoun, genitive singular masculine",
+     "gloss": "of him"
+    },
+    {
+     "surface": "Ἰησοῦ",
+     "lemma": "Ἰησοῦς",
+     "code": "N- ----GSM-",
+     "parse": "noun, genitive singular masculine",
+     "gloss": "Jesus"
+    },
+    {
+     "surface": "Χριστοῦ·",
+     "lemma": "Χριστός",
+     "code": "N- ----GSM-",
+     "parse": "noun, genitive singular masculine",
+     "gloss": "Christ, anointed one"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "verse": 4,
+   "greek": "καὶ ταῦτα γράφομεν ἡμεῖς",
+   "gloss": "and these-things we-write, we,",
+   "words": [
+    {
+     "surface": "καὶ",
+     "lemma": "καί",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "and"
+    },
+    {
+     "surface": "ταῦτα",
+     "lemma": "οὗτος",
+     "code": "RD ----APN-",
+     "parse": "demonstrative pronoun, accusative plural neuter",
+     "gloss": "these things"
+    },
+    {
+     "surface": "γράφομεν",
+     "lemma": "γράφω",
+     "code": "V- 1PAI-P--",
+     "parse": "present active indicative, 1st plural",
+     "gloss": "we write"
+    },
+    {
+     "surface": "ἡμεῖς",
+     "lemma": "ἐγώ",
+     "code": "RP ----NP--",
+     "parse": "personal pronoun, nominative plural",
+     "gloss": "we"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "verse": 4,
+   "greek": "ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη.",
+   "gloss": "so-that the joy of-us may-be having-been-filled.",
+   "words": [
+    {
+     "surface": "ἵνα",
+     "lemma": "ἵνα",
+     "code": "C- --------",
+     "parse": "conjunction",
+     "gloss": "so that"
+    },
+    {
+     "surface": "ἡ",
+     "lemma": "ὁ",
+     "code": "RA ----NSF-",
+     "parse": "article, nominative singular feminine",
+     "gloss": "the"
+    },
+    {
+     "surface": "χαρὰ",
+     "lemma": "χαρά",
+     "code": "N- ----NSF-",
+     "parse": "noun, nominative singular feminine",
+     "gloss": "joy"
+    },
+    {
+     "surface": "ἡμῶν",
+     "lemma": "ἐγώ",
+     "code": "RP ----GP--",
+     "parse": "personal pronoun, genitive plural",
+     "gloss": "of us, our",
+     "note": "ἡμῶν (“our”) or ὑμῶν (“your”) — one letter, and homophones in later Koine. UBS5/NA28 print ἡμῶν; letter rating not verified."
+    },
+    {
+     "surface": "ᾖ",
+     "lemma": "εἰμί",
+     "code": "V- 3PAS-S--",
+     "parse": "present active subjunctive, 3rd singular",
+     "gloss": "may be"
+    },
+    {
+     "surface": "πεπληρωμένη.",
+     "lemma": "πληρόω",
+     "code": "V- -XPPNSF-",
+     "parse": "perfect passive participle, nominative singular feminine",
+     "gloss": "having been filled"
+    }
+   ]
+  }
+ ],
+ "observations": [
+  {
+   "title": "ὃ, not ὅς",
+   "claim": "contested (emphasis)",
+   "body": "The relative is neuter — “that which” — four times in v.1, not masculine “he whom”: the object is a reality, a message, before it is a person — and yet it is “handled.” Brown (Anchor Bible) takes the neuter as deliberately broad, the whole Christ-event; Marshall (NICNT) reads through it to the person."
+  },
+  {
+   "title": "Three tense-forms, one sentence",
+   "claim": "majority view · perfect contested",
+   "body": "ἦν (imperfect) → ἀκηκόαμεν, ἑωράκαμεν (perfect) → ἐθεασάμεθα, ἐψηλάφησαν (aorist). The majority view is that the choice encodes aspect — how the author frames the action — more than time. What “perfect” itself means is contested: Porter (stative), Fanning (blended), Campbell (proximity)."
+  },
+  {
+   "title": "Main verb arrives late",
+   "claim": "majority view · discourse grammar",
+   "body": "v.1's four ὃ-clauses are a fronted object with no verb; v.2 is a parenthesis (it does contain ἀπαγγέλλομεν); the sentence resolves only at v.3, ἀπαγγέλλομεν καὶ ὑμῖν. In discourse grammar such fronting is marked — the backlog you carry is the point (Runge)."
+  },
+  {
+   "title": "καί … καί … and κοινωνία",
+   "claim": "consensus range · sense contested",
+   "body": "v.2's repeated καί (polysyndeton) slows the line on purpose. κοινωνία is wider than “fellowship”: association, participation or sharing in, even material contribution (BDAG). The range is consensus; the dominant sense here is contested."
+  },
+  {
+   "title": "v.4: ἡμῶν or ὑμῶν",
+   "claim": "textual · rating not verified",
+   "body": "“Our joy” or “your joy” — one letter. UBS5/NA28 print ἡμῶν; the letter rating is not verified here (a lay apparatus reports {B}). In later Koine η and υ converged in sound, so the two were homophones: a scribe copying by ear could not tell them apart."
+  }
+ ],
+ "tasks": [
+  {
+   "id": 1,
+   "text": "In STEP Bible, open 1 John 1 (SBLGNT); hover-parse every verb in vv.1–4 and note only the tense label. Don't translate.",
+   "url": "https://www.stepbible.org/?q=version=SBLGNT|reference=1John.1"
+  },
+  {
+   "id": 2,
+   "text": "Find all six relatives (ὃ ×4 in v.1, ἥτις in v.2, ὃ in v.3); mark which are neuter and ask what noun each could agree with."
+  },
+  {
+   "id": 3,
+   "text": "Find where v.1's sentence finally gets its main verb — count the words you had to hold."
+  }
+ ],
+ "task_note": "Stage 0 — alphabet is enough"
+}

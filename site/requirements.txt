@@ -1,0 +1,8 @@
+# The build is Python 3 stdlib only — nothing to install.
+#
+# site/build.py, site/templates/shell.py and site/pages/*.py use only json, os,
+# shutil, sys, time and a hand-rolled frontmatter parser (build.parse_frontmatter).
+#
+# If Agent C needs a markdown renderer for site/lib/md.py, pin it here, e.g.:
+#   markdown==3.6
+# and keep the rest of the build importable without it.

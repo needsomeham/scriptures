@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CLAUDE · Greek Study</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;display=swap">
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../library.css">
+</head>
+<body>
+<div class="layout">
+<nav class="rail" aria-label="Sections"><div class="rail-mark"><div class="wordmark" lang="grc">Ἐν ἀρχῇ</div><div class="wordmark-sub">a reading course</div></div><a class="nav-item" href="../index.html"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="3" width="7" height="8"/><rect x="14" y="3" width="7" height="5"/><rect x="14" y="11" width="7" height="10"/><rect x="3" y="14" width="7" height="7"/></svg><span>Dashboard</span></a><a class="nav-item" href="../course.html"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 6h16"/><path d="M4 12h16"/><path d="M4 18h10"/></svg><span>Course</span></a><a class="nav-item" href="../alphabet.html"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 19 12 5l7 14"/><path d="M8 14h8"/></svg><span>Alphabet</span></a><a class="nav-item" href="../reading.html"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5h6a2 2 0 0 1 2 2v13a2 2 0 0 0-2-1.5H4z"/><path d="M20 5h-6a2 2 0 0 0-2 2v13a2 2 0 0 1 2-1.5h6z"/></svg><span>Reading Room</span></a><a class="nav-item active" href="../library/index.html" aria-current="page"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 4h5v16H4z"/><path d="M10 4h4v16h-4z"/><path d="m15.5 5 4 15"/></svg><span>Library</span></a><div class="grow"></div><div class="rail-meta"><div>Pronunciation · Erasmian</div><div><a href="https://github.com/needsomeham/scriptures">Vault on GitHub</a></div></div></nav>
+<div>
+<header class="masthead"><div style="display:flex;align-items:baseline;gap:10px"><div class="wordmark" lang="grc">Ἐν ἀρχῇ</div><div class="wordmark-sub">a reading course</div></div><div class="meta" data-today></div></header>
+<main class="main">
+<div class="page-head"><div class="page-head-left"><h1>CLAUDE</h1><div class="page-sub">Control</div></div></div><div class="segmented" style="align-items:center;gap:10px;flex-wrap:wrap"><span class="chip" style="cursor:default">Control</span><a class="meta" href="moc-greek-learning.html">Greek learning</a><span class="meta mid">#governance</span></div><article class="panel note-body"><h1>Vault rules — read this first</h1>
+<p><strong>The vault is the durable product.</strong> Not chat transcripts, not this session's memory — the markdown files under this root. Every wave of work must leave the vault more complete and still internally consistent than it found it. If a fact or note isn't written here, it doesn't exist for the next agent or for Jacob.</p>
+<h2>Mission</h2>
+<p>Help Jacob reach an accurate, contextually grounded understanding of the New Testament from the Greek source text. Phase 1: learn Koine Greek in context (reading-first + video-driven, beginner→intermediate), plus NT historical background and textual criticism. <strong>Lens:</strong> broadly academic / non-sectarian — where traditions diverge, say so neutrally, never advocate. Far-off goal (out of scope now): a Greek→English scripture LLM; note open datasets if you meet them.</p>
+<h2>Layout</h2>
+<pre><code>CLAUDE.md, MAP.md, learning-path.md        root governance + curriculum
+_templates/source.md|concept.md|bridge.md  note templates
+_control/references-{greek,background,textual}.md   sharded bibliography (≤30KB each)
+_control/gaps.md, _control/taxonomy.md     open questions, domain coverage
+moc-greek-learning.md, moc-nt-background.md, moc-textual-criticism.md
+sources/&lt;slug&gt;.md    concepts/&lt;slug&gt;.md    bridges/&lt;slug&gt;.md</code></pre>
+<p>Slugs: lowercase-kebab, no dates. Every note has frontmatter: <code>title, type (source|concept|bridge|moc|control), tags, tier (sources only), created (YYYY-MM-DD), sources (ref IDs)</code>.</p>
+<h2>Source tiers</h2>
+<ul><li><strong>T1:</strong> academic press monographs, peer-reviewed journals (JBL, NTS,</li></ul>
+<p>  NovT, JSNT), reference works (BDAG, LSJ, NA28/UBS5 apparatus, Metzger),   critical editions (NA28, SBLGNT, THGNT).</p>
+<ul><li><strong>T2:</strong> seminary-level textbooks/grammars (Mounce, Croy, Decker,</li></ul>
+<p>  Wallace, Funk, Runge), reputable readers.</p>
+<ul><li><strong>T2b:</strong> established open tools/courses with named scholars (Daily</li></ul>
+<p>  Dose of Greek, Perseus, STEP Bible, BLC, Logeion, university OCW,   Mounce's site) — terminal for tools/courses only.</p>
+<ul><li><strong>T3:</strong> Wikipedia, blogs, forums, uncredentialed YouTube — orient</li></ul>
+<p>  only, never terminal. May point to T1/T2; load-bearing claims must   cite T1/T2.</p>
+<ul><li><strong>Banned:</strong> SEO farms, uncited listicles, affiliate "top 10" pages,</li></ul>
+<p>  vendor-only sourcing for claims about the vendor's own quality.</p>
+<h2>Claim ladder (mandatory on load-bearing scholarly claims)</h2>
+<p><code>consensus</code> → <code>majority view</code> → <code>contested</code> → <code>minority view</code> → <code>speculative</code>. Text-critical claims also carry a <strong>textual confidence</strong> line (e.g. "UBS5 rating {A}", "NA28 bracketed", "no significant variants"). Never present a contested view as settled; name at least one dissenting scholar/school for anything below <code>consensus</code>.</p>
+<h2>Method rules</h2>
+<ol><li>Synopsize, never republish — no verbatim dumps; quote ≤2 sentences.</li><li>Text-native only — no bulk PDF ingestion; PDF-only sources are</li></ol>
+<p>   <code>status: queued</code>, catalogued via what secondary sources say.</p>
+<ol><li>Every source note answers: what it is, who made it (credentials),</li></ol>
+<p>   what it's for in <em>this</em> path, level, cost/access, strengths,    weaknesses, connections (wikilinks).</p>
+<ol><li>Pure research first — concept notes describe scholarship on its own</li></ol>
+<p>   terms; application/reading-practice goes only in <code>bridges/</code>.</p>
+<ol><li>Divergence rule — name traditions and cite a representative from</li></ol>
+<p>   each; no filter, no advocacy.</p>
+<ol><li>Size budgets — source ≤3KB, concept ≤4KB, bridge ≤5KB (Greek text</li></ol>
+<p>   is 2 bytes/char; quote the passage once, keep prose ≤3KB), MOC ≤8KB,    bibliography shard ≤30KB, root files as marked above. Condense    before appending; never let a file grow past budget.</p>
+<ol><li>Link integrity — no broken <code>[[wikilinks]]</code> ship. Every note links to</li></ol>
+<p>   its MOC; every MOC links to every note in its domain.</p>
+<ol><li>Gap ledger — anything unverified, unfound, or contested goes in</li></ol>
+<p>   <code>_control/gaps.md</code> with priority P1 (blocks learning) / P2 (matters)    / P3 (nice-to-have).</p>
+<ol><li>Citations in-note — ref IDs like <code>[G-03]</code>, <code>[B-12]</code>, <code>[T-05]</code> resolve</li></ol>
+<p>   to rows in the matching <code>_control/references-*.md</code> shard.</p>
+<h2>Reading protocol (binding on every agent, every session)</h2>
+<ol><li><strong>Open <code>MAP.md</code> first.</strong> It is the entry point and reading order.</li><li><strong>Go deeper only by lookup</strong> — grep for a term/slug, or follow a</li></ol>
+<p>   <code>[[wikilink]]</code> — never by reading a whole folder (<code>sources/</code>,    <code>concepts/</code>, <code>bridges/</code>) end-to-end.</p>
+<ol><li><strong>Never read a <code>references-*.md</code> shard end-to-end.</strong> Grep for the</li></ol>
+<p>   specific ref ID you need.</p>
+<ol><li><strong>Read at most the 3 most relevant notes</strong> for any given question</li></ol>
+<p>   before answering or acting. If that isn't enough, grep further —    don't broaden by reading more whole notes.</p>
+<ol><li>Consult <code>_control/taxonomy.md</code> and <code>_control/gaps.md</code> by lookup, not</li></ol>
+<p>   cover-to-cover, when deciding what to work on next.</p>
+<h2>Research loop (per wave)</h2>
+<p><strong>Survey</strong> (tiered web search) → <strong>Digest</strong> (researcher writes source/concept notes to a disjoint manifest — never touches <code>MAP.md</code>, MOCs, or another agent's shard) → <strong>Stitch</strong> (one synthesis agent builds MOCs, <code>learning-path.md</code>, taxonomy, gaps; verifies links and sizes) → <strong>Architect review</strong>. Stop criterion per wave: every taxonomy line has ≥1 note, and a fresh search resurfaces ≥70% of already-catalogued resources.</p>
+<p>General rule: researchers write only to their own manifest within <code>sources/</code>, <code>concepts/</code>, and <code>_control/references-*.md</code> — never touch another researcher's shard, another domain's notes, <code>MAP.md</code>, a MOC, <code>learning-path.md</code>, <code>_control/taxonomy.md</code>, or <code>_control/gaps.md</code>. Only the Stitch agent edits MOCs, <code>MAP.md</code>, <code>learning-path.md</code>, <code>_control/taxonomy.md</code>, and <code>_control/gaps.md</code>.</p></article><section class="panel"><div class="label">Linked from</div><ul><li><a href="MAP.html">MAP</a></li></ul></section><div class="segmented" style="gap:12px"><a class="chip" href="index.html"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 4h5v16H4z"/><path d="M10 4h4v16h-4z"/><path d="m15.5 5 4 15"/></svg><span>Back to Library</span></a><a class="chip" href="https://github.com/needsomeham/scriptures/blob/main/CLAUDE.md" target="_blank" rel="noopener"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16"/></svg><span>Open in vault on GitHub</span></a></div>
+<footer class="site-footer"><div>Text: SBLGNT · Morphology: MorphGNT (CC BY-SA 3.0)</div><div>Built from the <a href="https://github.com/needsomeham/scriptures">Scriptures vault</a> · <a href="../index.html">Dashboard</a></div></footer>
+</main>
+</div>
+</div>
+<nav class="tabbar" aria-label="Sections"><a class="tab" href="../index.html"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="3" width="7" height="8"/><rect x="14" y="3" width="7" height="5"/><rect x="14" y="11" width="7" height="10"/><rect x="3" y="14" width="7" height="7"/></svg><span>Dashboard</span></a><a class="tab" href="../course.html"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 6h16"/><path d="M4 12h16"/><path d="M4 18h10"/></svg><span>Course</span></a><a class="tab" href="../alphabet.html"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 19 12 5l7 14"/><path d="M8 14h8"/></svg><span>Alphabet</span></a><a class="tab" href="../reading.html"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5h6a2 2 0 0 1 2 2v13a2 2 0 0 0-2-1.5H4z"/><path d="M20 5h-6a2 2 0 0 0-2 2v13a2 2 0 0 1 2-1.5h6z"/></svg><span>Reading</span></a><a class="tab active" href="../library/index.html" aria-current="page"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 4h5v16H4z"/><path d="M10 4h4v16h-4z"/><path d="m15.5 5 4 15"/></svg><span>Library</span></a></nav>
+<script src="../app.js"></script>
+
+</body>
+</html>

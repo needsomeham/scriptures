@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "source_notes": ["start-here.md", "learning-path.md"],
+    "weekly_loop": "5× reading · 2× grammar · 1× lecture",
+    "pronunciation": "Erasmian (default; see the pronunciation note)"
+  },
+  "stages": [
+    {
+      "id": 0,
+      "title": "Alphabet, pronunciation, tooling",
+      "duration": "~2 weeks",
+      "goal": "Read the alphabet fluently, pick a pronunciation, set up tools.",
+      "ready_when": [
+        "You can name and write all 24 letters from memory",
+        "You can read the diacritics — breathings, accents, iota subscript — without stopping",
+        "STEP Bible and Logeion are bookmarked"
+      ],
+      "parallel": {
+        "title": "Decide once: pronunciation",
+        "meta": "SBL 2011 report · neutral overview · T2b",
+        "body": "Erasmian is historically inaccurate but is what nearly every free video course uses; restored Koine is closer to first-century sound. Neither affects grammar. Default: Erasmian.",
+        "note_slug": "pronunciation-erasmian-vs-restored-koine",
+        "url": "https://danielstreett.com/2011/12/01/the-great-greek-pronunciation-debate-sbl-2011-report-pt-3/",
+        "cta": "Read the overview"
+      },
+      "note": "Everything in Stage 0 is free. Paid items begin at Stage 1.",
+      "resources": [
+        {
+          "title": "Greek alphabet and diacritics",
+          "meta": "vault concept note · reference table",
+          "note_slug": "greek-alphabet-and-diacritics"
+        },
+        {
+          "title": "Basics of Biblical Greek",
+          "meta": "Mounce · T2 · intro chapters only",
+          "note_slug": "mounce-basics-of-biblical-greek",
+          "url": "https://www.billmounce.com/basicsofbiblicalgreek"
+        },
+        {
+          "title": "STEP Bible",
+          "meta": "Tyndale House · T2b · free · morphology",
+          "note_slug": "step-bible",
+          "url": "https://www.stepbible.org/"
+        },
+        {
+          "title": "Logeion",
+          "meta": "Univ. of Chicago · T2b · free · lexicon",
+          "note_slug": "logeion",
+          "url": "https://logeion.uchicago.edu/"
+        },
+        {
+          "title": "Daily Dose of Greek",
+          "meta": "Rob Plummer · T2b · free · daily habit",
+          "note_slug": "daily-dose-of-greek",
+          "url": "https://dailydoseofgreek.com/"
+        },
+        {
+          "title": "NT201 Biblical Greek",
+          "meta": "BiblicalTraining · T2b · free · 36 lectures",
+          "note_slug": "biblicaltraining-mounce-nt201",
+          "url": "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
+        },
+        {
+          "title": "billmounce.com",
+          "meta": "Mounce · T2b · free · vocab flashcards",
+          "note_slug": "billmounce-site",
+          "url": "https://www.billmounce.com/"
+        },
+        {
+          "title": "SBLGNT",
+          "meta": "Holmes / SBL · T1 · free critical text",
+          "note_slug": "tc-sblgnt",
+          "url": "https://sblgnt.com/"
+        },
+        {
+          "title": "Bible Hub interlinear",
+          "meta": "T3 · quick fallback only — verify against STEP",
+          "url": "https://biblehub.com/interlinear/1_john/1-1.htm"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "First-year grammar spine",
+      "duration": "~4–6 months",
+      "goal": "Morphology + core syntax, reading-first.",
+      "ready_when": [
+        "You can parse any regular verb or noun form",
+        "You recognize the moods and voices",
+        "You can read a simplified or glossed NT sentence without stopping every word"
+      ],
+      "parallel": {
+        "title": "Introduction to the New Testament",
+        "meta": "Open Yale · Dale B. Martin · 26 lectures · T2b",
+        "body": "One lecture a week or two, no rush — the historical-critical frame while the Greek is still basic.",
+        "note_slug": "bg-yale-dale-martin-lectures",
+        "url": "https://oyc.yale.edu/religious-studies/rlst-152",
+        "cta": "Open the course"
+      },
+      "note": "Scope caveat: Athenaze and similar reading-first primers teach Attic, not Koine — skip them for this path.",
+      "resources": [
+        {
+          "title": "Reading Koine Greek",
+          "meta": "Decker · T2 · ~$50–60 · spine grammar, aspect-first",
+          "note_slug": "decker-reading-koine-greek",
+          "url": "https://bakeracademic.com/"
+        },
+        {
+          "title": "NT201 Biblical Greek",
+          "meta": "BiblicalTraining · T2b · free · video track",
+          "note_slug": "biblicaltraining-mounce-nt201",
+          "url": "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
+        },
+        {
+          "title": "billmounce.com",
+          "meta": "Mounce · T2b · free · vocab + Monday with Mounce",
+          "note_slug": "billmounce-site",
+          "url": "https://www.billmounce.com/"
+        },
+        {
+          "title": "Basics of Biblical Greek",
+          "meta": "Mounce · T2 · alternative spine",
+          "note_slug": "mounce-basics-of-biblical-greek",
+          "url": "https://www.billmounce.com/basicsofbiblicalgreek"
+        },
+        {
+          "title": "A Primer of Biblical Greek",
+          "meta": "Croy · T2 · alternative spine",
+          "note_slug": "croy-primer-of-biblical-greek",
+          "url": "https://www.eerdmans.com/"
+        },
+        {
+          "title": "Beginning-Intermediate Grammar of Hellenistic Greek",
+          "meta": "Funk · T2 · free · cost-constrained spine",
+          "note_slug": "funk-beginning-intermediate-grammar",
+          "url": "https://archive.org/details/beginninginterme0001robe"
+        },
+        {
+          "title": "Daily Dose of Greek",
+          "meta": "Rob Plummer · T2b · free · keep the habit running",
+          "note_slug": "daily-dose-of-greek",
+          "url": "https://dailydoseofgreek.com/"
+        },
+        {
+          "title": "Open Yale RLST 152",
+          "meta": "Dale B. Martin · T2b · free · parallel context",
+          "note_slug": "bg-yale-dale-martin-lectures",
+          "url": "https://oyc.yale.edu/religious-studies/rlst-152"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Reading in earnest",
+      "duration": "~6–12 months",
+      "goal": "Sustained reading of real NT Greek, references introduced.",
+      "ready_when": [
+        "You can read a chapter of 1 John or Mark with the reader's edition at conversational pace",
+        "You understand what a footnote or apparatus marker is pointing at, even if you can't resolve it yourself"
+      ],
+      "parallel": {
+        "title": "The Text of the New Testament",
+        "meta": "Metzger & Ehrman · T1 · standard TC survey",
+        "body": "Read this now, before the apparatus work of Stage 3 — alongside an intro-textbook spine (Ehrman or Powell) and Keener as a verse-by-verse background companion.",
+        "note_slug": "tc-metzger-ehrman-text-of-the-new-testament",
+        "url": "https://global.oup.com/academic/product/the-text-of-the-new-testament-9780195161229",
+        "cta": "See the note"
+      },
+      "note": "Reading order: 1 John → Mark → John → shorter Pauline letters (Philippians, 1 Thessalonians).",
+      "resources": [
+        {
+          "title": "THGNT Reader's Edition",
+          "meta": "Tyndale House · T1 · ~$40–50 · glossed rare words",
+          "note_slug": "tyndale-house-greek-nt-readers-edition",
+          "url": "https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/"
+        },
+        {
+          "title": "UBS5 Reader's Edition",
+          "meta": "UBS / DBG · T1 · alternative reader",
+          "note_slug": "ubs5-readers-edition",
+          "url": "https://www.dbg.de/"
+        },
+        {
+          "title": "BDAG",
+          "meta": "Bauer–Danker · T1 · ~$90–150 · lexicon of record",
+          "note_slug": "bdag",
+          "url": "https://press.uchicago.edu/"
+        },
+        {
+          "title": "Greek Grammar Beyond the Basics",
+          "meta": "Wallace · T2 · syntax questions as they come up",
+          "note_slug": "wallace-greek-grammar-beyond-basics",
+          "url": "https://www.billmounce.com/resource/wallace"
+        },
+        {
+          "title": "Discourse Grammar of the Greek NT",
+          "meta": "Runge · T2 · why that word order or connective",
+          "note_slug": "runge-discourse-grammar",
+          "url": "https://www.hendrickson.com/"
+        },
+        {
+          "title": "A Manual Greek Lexicon of the NT",
+          "meta": "Abbott-Smith · T2 · free · if BDAG isn't affordable yet",
+          "note_slug": "abbott-smith-lexicon",
+          "url": "https://archive.org/details/manualgreeklexic00abborich"
+        },
+        {
+          "title": "The New Testament: A Historical Introduction",
+          "meta": "Ehrman · T2 · parallel background spine",
+          "note_slug": "bg-ehrman-new-testament-historical-introduction",
+          "url": "https://global.oup.com/academic/product/a-brief-introduction-to-the-new-testament-9780190089528"
+        },
+        {
+          "title": "IVP Bible Background Commentary",
+          "meta": "Keener · T2 · verse-by-verse companion",
+          "note_slug": "bg-keener-ivp-bible-background-commentary",
+          "url": "https://www.ivpress.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Apparatus, discourse, LXX",
+      "duration": "ongoing",
+      "goal": "Read with the apparatus, not just the running text; broaden into aspect/discourse theory and the LXX.",
+      "ready_when": [
+        "You read a UBS5/NA28 footnote and know what question it's answering before consulting Metzger",
+        "You can explain why a translation committee chose a reading, in claim-ladder terms"
+      ],
+      "parallel": {
+        "title": "The CBGM",
+        "meta": "concept note · the field's current genealogical method",
+        "body": "Work the methodological fault line: CBGM, reasoned eclecticism, Byzantine priority — and the disputed-passage checklist (Mark 16, John 7:53–8:11, 1 John 5:7).",
+        "note_slug": "tc-cbgm",
+        "cta": "Open the note"
+      },
+      "note": "No fixed end. Pick a variant from your current reading and look up why the committee decided as it did.",
+      "resources": [
+        {
+          "title": "Reading a critical apparatus",
+          "meta": "vault concept note · the on-ramp",
+          "note_slug": "tc-reading-a-critical-apparatus"
+        },
+        {
+          "title": "A Textual Commentary on the Greek NT",
+          "meta": "Metzger · T1 · committee rationale per variant",
+          "note_slug": "tc-metzger-textual-commentary-gnt",
+          "url": "https://www.logos.com/product/2190/a-textual-commentary-on-the-greek-new-testament-second-edition"
+        },
+        {
+          "title": "Novum Testamentum Graece (NA28)",
+          "meta": "INTF / DBG · T1 · working critical text",
+          "note_slug": "tc-na28-novum-testamentum-graece",
+          "url": "https://www.die-bibel.de/en/novum-testamentum-graece-nestle-aland"
+        },
+        {
+          "title": "SBLGNT",
+          "meta": "Holmes / SBL · T1 · free critical text",
+          "note_slug": "tc-sblgnt",
+          "url": "https://sblgnt.com/"
+        },
+        {
+          "title": "Discourse Grammar of the Greek NT",
+          "meta": "Runge · T2 · revisit systematically",
+          "note_slug": "runge-discourse-grammar",
+          "url": "https://www.hendrickson.com/"
+        },
+        {
+          "title": "Invitation to the Septuagint",
+          "meta": "Jobes & Silva · T2 · LXX sampling",
+          "note_slug": "bg-jobes-silva-invitation-septuagint",
+          "url": "https://bakeracademic.com/p/Invitation-to-the-Septuagint-Karen-H-Jobes/40602"
+        },
+        {
+          "title": "NETS Septuagint online",
+          "meta": "Pietersma & Wright · T2b · free full text",
+          "note_slug": "bg-nets-septuagint-online",
+          "url": "https://ccat.sas.upenn.edu/nets/"
+        },
+        {
+          "title": "Major disputed passages",
+          "meta": "vault concept note · a checklist to work through",
+          "note_slug": "tc-major-disputed-passages"
+        }
+      ]
+    }
+  ],
+  "plan": [
+    {
+      "day": 1,
+      "title": "Alphabet chunk 1 — α β γ δ ε ζ η θ",
+      "minutes": 20,
+      "detail": "Names and sounds, Erasmian. Use Mounce BBG ch. 1 or the alphabet-and-diacritics note as your reference table.",
+      "resource_title": "Mounce BBG ch. 1",
+      "resource_slug": "mounce-basics-of-biblical-greek",
+      "url": "https://www.billmounce.com/basicsofbiblicalgreek"
+    },
+    {
+      "day": 2,
+      "title": "Alphabet chunk 2 — ι κ λ μ ν ξ ο π",
+      "minutes": 20,
+      "detail": "Say each one aloud as you go.",
+      "resource_title": "Alphabet & diacritics",
+      "resource_slug": "greek-alphabet-and-diacritics"
+    },
+    {
+      "day": 3,
+      "title": "Alphabet chunk 3 — ρ σ/ς τ υ φ χ ψ ω",
+      "minutes": 20,
+      "detail": "Full alphabet review: uppercase, lowercase, and final sigma.",
+      "resource_title": "Alphabet & diacritics",
+      "resource_slug": "greek-alphabet-and-diacritics"
+    },
+    {
+      "day": 4,
+      "title": "Breathings and the iota subscript",
+      "minutes": 15,
+      "detail": "Smooth vs. rough breathing, then the iota subscript. Practice on five real NT words.",
+      "resource_title": "Alphabet & diacritics",
+      "resource_slug": "greek-alphabet-and-diacritics"
+    },
+    {
+      "day": 5,
+      "title": "The three accents — acute, grave, circumflex",
+      "minutes": 15,
+      "detail": "What they mark, and why you can mostly ignore them for now — pitch, not stress, in the historical system.",
+      "resource_title": "Alphabet & diacritics",
+      "resource_slug": "greek-alphabet-and-diacritics"
+    },
+    {
+      "day": 6,
+      "title": "Read the whole alphabet aloud from memory",
+      "minutes": 15,
+      "detail": "Uppercase and lowercase, timed. Repeat until you are under 60 seconds.",
+      "resource_title": "Alphabet trainer",
+      "page": "alphabet.html"
+    },
+    {
+      "day": 7,
+      "title": "First Daily Dose of Greek video — start the habit",
+      "minutes": 10,
+      "detail": "Pick any verse from the archive. The point is the habit, not comprehension.",
+      "resource_title": "Daily Dose of Greek",
+      "resource_slug": "daily-dose-of-greek",
+      "url": "https://dailydoseofgreek.com/"
+    },
+    {
+      "day": 8,
+      "title": "NT201 Lecture 1 — “The Greek Language”",
+      "minutes": 25,
+      "detail": "Alphabet, pronunciation, and a grammar overview.",
+      "resource_title": "NT201 (Mounce)",
+      "resource_slug": "biblicaltraining-mounce-nt201",
+      "url": "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
+    },
+    {
+      "day": 9,
+      "title": "NT201 Lecture 3 — “The Alphabet and Pronunciation”",
+      "minutes": 25,
+      "detail": "Gamma nasals, vowels, diphthongs, and breathing marks in more depth.",
+      "resource_title": "NT201 (Mounce)",
+      "resource_slug": "biblicaltraining-mounce-nt201",
+      "url": "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
+    },
+    {
+      "day": 10,
+      "title": "Transcribe 1 John 1:1 by hand, letter by letter",
+      "minutes": 20,
+      "detail": "From a printed or on-screen Greek text — slow, deliberate, no typing.",
+      "resource_title": "STEP Bible",
+      "resource_slug": "step-bible",
+      "url": "https://www.stepbible.org/"
+    },
+    {
+      "day": 11,
+      "title": "Second Daily Dose of Greek video",
+      "minutes": 20,
+      "detail": "Note any letters or sounds still shaky, then drill those specifically.",
+      "resource_title": "Daily Dose of Greek",
+      "resource_slug": "daily-dose-of-greek",
+      "url": "https://dailydoseofgreek.com/"
+    },
+    {
+      "day": 12,
+      "title": "Hover-parse every word of 1 John 1:1–4",
+      "minutes": 25,
+      "detail": "Open STEP Bible and just look — don't try to memorize the grammar terms yet.",
+      "resource_title": "STEP Bible",
+      "resource_slug": "step-bible",
+      "url": "https://www.stepbible.org/"
+    },
+    {
+      "day": 13,
+      "title": "NT201 Lecture 4 — “Punctuation and Syllabification”",
+      "minutes": 15,
+      "detail": "Then re-read your Day 10 transcription and check it against the syllable rules.",
+      "resource_title": "NT201 (Mounce)",
+      "resource_slug": "biblicaltraining-mounce-nt201",
+      "url": "https://www.biblicaltraining.org/learn/institute/nt201-biblical-greek"
+    },
+    {
+      "day": 14,
+      "title": "Read 1 John 1:1–4 aloud, Erasmian",
+      "minutes": 15,
+      "detail": "From the text you transcribed. This is decoding fluency, not comprehension.",
+      "resource_title": "1 John 1:1–4 bridge",
+      "resource_slug": "1-john-1-1-4-first-reading",
+      "page": "reading.html"
+    }
+  ]
+}

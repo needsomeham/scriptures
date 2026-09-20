@@ -1,0 +1,1569 @@
+[
+{
+"slug": "CLAUDE",
+"title": "CLAUDE",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Vault rules — read this first",
+"tags": [
+"governance"
+],
+"url": "library/CLAUDE.html",
+"use_in_path": ""
+},
+{
+"slug": "MAP",
+"title": "MAP",
+"type": "guide",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Map of the vault",
+"tags": [
+"map",
+"control"
+],
+"url": "library/MAP.html",
+"use_in_path": ""
+},
+{
+"slug": "README",
+"title": "README",
+"type": "guide",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Scriptures",
+"tags": [],
+"url": "library/README.html",
+"use_in_path": ""
+},
+{
+"slug": "gaps",
+"title": "gaps",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Gap ledger",
+"tags": [
+"gaps",
+"control"
+],
+"url": "library/gaps.html",
+"use_in_path": ""
+},
+{
+"slug": "ops-device-shell",
+"title": "Ops — Cowork device shell (device_bash) outage",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Cowork device shell outage — what it is, what you can do",
+"tags": [
+"ops",
+"windows",
+"cowork"
+],
+"url": "library/ops-device-shell.html",
+"use_in_path": ""
+},
+{
+"slug": "references-background",
+"title": "References — NT Background",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Ref rows for sources/bg-.md and concepts/.md in the NT-background domain. ID | author/creator | title | year | type | tier | URL | why it matters.",
+"tags": [
+"references",
+"background"
+],
+"url": "library/references-background.html",
+"use_in_path": ""
+},
+{
+"slug": "references-greek",
+"title": "References — Greek Learning",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Bibliography shard for sources/ notes on learning Koine Greek (reading tools, courses, grammars, lexica, pronunciation, open datasets). Rows resolve [G-NN] cit…",
+"tags": [
+"bibliography",
+"greek"
+],
+"url": "library/references-greek.html",
+"use_in_path": ""
+},
+{
+"slug": "references-textual",
+"title": "References — Textual Criticism",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Bibliography shard for the textual-criticism domain. Ref IDs prefixed T-. Rows: ID | author/creator | title | year | type | tier | URL | why it matters.",
+"tags": [
+"bibliography"
+],
+"url": "library/references-textual.html",
+"use_in_path": ""
+},
+{
+"slug": "taxonomy",
+"title": "taxonomy",
+"type": "control",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Domain taxonomy",
+"tags": [
+"taxonomy",
+"coverage"
+],
+"url": "library/taxonomy.html",
+"use_in_path": ""
+},
+{
+"slug": "1-john-1-1-4-first-reading",
+"title": "1 John 1:1–4 — first reading",
+"type": "bridge",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Passage(s): 1 John 1:1–4, Greek per SBLGNT (tc-sblgnt)",
+"tags": [
+"bridge",
+"greek",
+"1-john",
+"stage-0",
+"aspect"
+],
+"url": "library/1-john-1-1-4-first-reading.html",
+"use_in_path": ""
+},
+{
+"slug": "authorship-and-dating-overview",
+"title": "Authorship and Dating — Overview",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "NT authorship and dating range from near-consensus (the undisputed Pauline letters, Markan priority) to genuinely open contested questions (the Pastorals, 2 Pe…",
+"tags": [
+"authorship",
+"dating",
+"historical-critical-method"
+],
+"url": "library/authorship-and-dating-overview.html",
+"use_in_path": "Whether a letter is judged genuinely Pauline vs. written later by a disciple in Paul's name changes how you weigh its theology against undisputed Paul (e.g. Ephesians' more \"cosmic\" Christology, or the Pastorals' church-order concerns) — and whether you read differences as development, situational adaptation, or a different author's hand is a live methodological choice, not a settled fact to memorize."
+},
+{
+"slug": "gospel-genre-greco-roman-biography",
+"title": "Gospel Genre as Greco-Roman Biography",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "The canonical Gospels most closely resemble ancient Greco-Roman bios (biography) — a genre with its own conventions a first-century reader would recognize, qui…",
+"tags": [
+"genre",
+"literary-criticism",
+"greco-roman-context"
+],
+"url": "library/gospel-genre-greco-roman-biography.html",
+"use_in_path": "Recognizing bios conventions explains features that look strange if you expect a modern biography or newspaper report: differing chronologies between the Gospels (e.g., the Temple-cleansing's placement), extended attention to the Passion relative to the rest of the narrative (consistent with ancient bios's interest in a subject's death as revealing character), and speeches that convey substance rather than stenographic accuracy — all standard ancient practice, not evidence of unreliability by ancient standards."
+},
+{
+"slug": "greek-alphabet-and-diacritics",
+"title": "Greek Alphabet and Diacritics",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "The 24-letter Greek alphabet, its diacritics, and the",
+"tags": [
+"alphabet",
+"pronunciation",
+"reference"
+],
+"url": "library/greek-alphabet-and-diacritics.html",
+"use_in_path": ""
+},
+{
+"slug": "honor-shame-culture",
+"title": "Honor-Shame Culture",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "A social-values model claiming honor (public reputation, ascribed or achieved) rather than individual guilt/innocence was the primary currency of first-century…",
+"tags": [
+"social-values",
+"greco-roman-context",
+"contested-model"
+],
+"url": "library/honor-shame-culture.html",
+"use_in_path": "Reframes many passages that read oddly through a modern lens: why genealogies matter (ascribed honor), why Jesus' table fellowship with \"sinners\" was scandalous (honor by association), why Paul boasts rhetorically in 2 Corinthians 11 (agonistic honor contest with rival teachers), and why crucifixion was chosen partly as a maximally *shaming* death, not only a painful one."
+},
+{
+"slug": "jewish-apocalyptic",
+"title": "Jewish Apocalyptic",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "A Second Temple Jewish literary and theological mode — cosmic dualism, revealed heavenly secrets, imminent divine intervention — that supplies the idiom of Jes…",
+"tags": [
+"apocalyptic",
+"eschatology",
+"second-temple-judaism"
+],
+"url": "library/jewish-apocalyptic.html",
+"use_in_path": "Jesus' proclamation of the \"kingdom of God\" as imminent and disruptive, the Synoptic apocalyptic discourse (Mark 13 and parallels), Paul's language of \"this age\" vs. \"the age to come,\" and the entire genre and imagery of Revelation (drawing directly on Daniel and echoing 1 Enoch) are illegible without this literary/theological background — a modern reader without it tends to either over-literalize the imagery or dismiss it as bizarre, missing that it follows recognizable period conventions."
+},
+{
+"slug": "roman-imperial-context",
+"title": "Roman Imperial Context",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "The NT was written entirely within, and largely in the language of, the Roman imperial system — its administration, patronage networks, and ideology (including…",
+"tags": [
+"rome",
+"politics",
+"empire",
+"background"
+],
+"url": "library/roman-imperial-context.html",
+"use_in_path": "Terms and title claims that sound purely religious to modern ears carried political freight for a first-century audience — \"gospel\" (euangelion), \"savior\" (sōtēr), \"son of god,\" and \"lord\" (kyrios) were all standing imperial-cult vocabulary applied to the emperor; the Gospels' and Paul's application of this vocabulary to Jesus reads, at minimum, as an implicit rival claim. Revelation's imagery (the beast, Babylon) is widely read as coded critique of Rome specifically."
+},
+{
+"slug": "second-temple-judaism",
+"title": "Second Temple Judaism",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "The diverse, contested, Temple-centered Judaism of c. 516 BCE–70 CE that every NT writer and every early follower of Jesus assumed as their default religious w…",
+"tags": [
+"judaism",
+"background",
+"historical-context"
+],
+"url": "library/second-temple-judaism.html",
+"use_in_path": "Nearly every NT controversy story, legal debate, and messianic claim only makes sense against specific Jewish debates of this period — e.g. Pharisaic vs. Sadducean disagreement over resurrection (Acts 23:8) is a real intra-Jewish fault line, not a Jesus-vs-Judaism dispute. Paul's self-description as a Pharisee (Phil 3:5) and his arguments about Torah only work if the reader knows what a first-century Pharisee actually believed and disputed."
+},
+{
+"slug": "septuagint-and-the-nt",
+"title": "The Septuagint and the New Testament",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "The Septuagint (LXX), the pre-Christian Greek translation of the Hebrew scriptures, is the actual text NT authors usually quote, echo, and think in — not the H…",
+"tags": [
+"septuagint",
+"greek",
+"old-testament-in-new"
+],
+"url": "library/septuagint-and-the-nt.html",
+"use_in_path": "A large share of NT \"Old Testament quotations\" match LXX wording, not the Hebrew — meaning the Greek vocabulary and theological connotations a NT author invokes are often LXX-specific (e.g. \"glory\" doxa carrying LXX kabod-Shekinah overtones absent from ordinary Greek usage; Isaiah 7:14's LXX parthenos \"virgin\" vs. the Hebrew almah \"young woman,\" which underlies Matthew 1:23's fulfillment claim). Reading Greek without awareness of the LXX layer misses why an NT author chose a given word or read an OT text a certain way."
+},
+{
+"slug": "synagogue-and-early-church",
+"title": "Synagogue and Early Church",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-nt-background",
+"one_line": "The first-century synagogue — a local Jewish gathering/reading institution, not yet the rabbinic institution of later centuries — is the closest structural mod…",
+"tags": [
+"synagogue",
+"judaism",
+"early-church",
+"institutions"
+],
+"url": "library/synagogue-and-early-church.html",
+"use_in_path": "Explains the pattern in Acts where Paul's mission strategy is repeatedly \"to the synagogue first\" (Acts 13:14, 17:1–2, etc.) — he is working within an existing Diaspora institution that already included God-fearing Gentile sympathizers, not founding something without precedent. It also frames the Gospels' synagogue conflict stories (e.g. Luke 4:16–30) as intra-Jewish institutional controversy, and clarifies why early Christian gatherings borrowed synagogue patterns (scripture reading, teaching, communal meal) before developing distinct church structures."
+},
+{
+"slug": "tc-byzantine-priority-debate",
+"title": "The Byzantine priority / reasoned eclecticism debate",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "The main live methodological fault line in NT textual criticism: should the text with the most surviving manuscript copies (Byzantine) be preferred by default,…",
+"tags": [
+"method",
+"debate"
+],
+"url": "library/tc-byzantine-priority-debate.html",
+"use_in_path": "Nearly every disputed passage in [[tc-major-disputed-passages]] (Mark 16:9-20, Comma Johanneum, etc.) is exactly where these two methods diverge most visibly — understanding the debate explains why some Bible translations/footnotes differ from others on these verses."
+},
+{
+"slug": "tc-canon-formation-overview",
+"title": "Canon formation overview",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "The 27-book NT canon emerged gradually over several centuries through recognition of already-authoritative texts, not a single decree — two landmark witnesses…",
+"tags": [
+"canon",
+"history"
+],
+"url": "library/tc-canon-formation-overview.html",
+"use_in_path": "Canon and text are separate questions — a book being canonical says nothing about how well its wording is textually reconstructed (that's the rest of this vault's textual-criticism domain), and conflating the two is a common category error."
+},
+{
+"slug": "tc-cbgm",
+"title": "The Coherence-Based Genealogical Method (CBGM)",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "A graph-based method, developed at Münster, that infers likely ancestor/descendant relationships among manuscript texts (not the physical manuscripts) from pat…",
+"tags": [
+"method",
+"advanced",
+"computational"
+],
+"url": "library/tc-cbgm.html",
+"use_in_path": "CBGM output is now part of how ECM/NA29 editorial decisions get made for Acts, Mark, and Revelation — understanding it explains *why* some post-2012 NA changes look different from older text-type reasoning, and it rewards exactly the graph/probabilistic intuition this learner already has."
+},
+{
+"slug": "tc-major-disputed-passages",
+"title": "Major disputed passages",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "A short, well-defined list of NT passages carries genuine, significant textual uncertainty — knowing exactly which ones (and why) prevents both overclaiming (\"…",
+"tags": [
+"variants",
+"case-studies"
+],
+"url": "library/tc-major-disputed-passages.html",
+"use_in_path": "This is the concrete, bounded list an informed reader should actually know — the rest of the NT text is comparatively far more secure than popular discussion (see [[tc-ehrman-misquoting-jesus]]) sometimes implies."
+},
+{
+"slug": "tc-reading-a-critical-apparatus",
+"title": "Reading a critical apparatus",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "The footnote block under an NA28/UBS5 page is a compact, symbol-coded record of every place manuscripts disagree on that page's text — learnable as a fixed not…",
+"tags": [
+"skill",
+"na28",
+"ubs5"
+],
+"url": "library/tc-reading-a-critical-apparatus.html",
+"use_in_path": "This is the literal skill this vault's mission targets — being able to open NA28 and understand, in real time, what is and isn't textually certain in the verse you're reading, rather than trusting a translator's footnote secondhand."
+},
+{
+"slug": "tc-reasoned-eclecticism",
+"title": "Reasoned eclecticism (and thoroughgoing eclecticism)",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "The dominant modern method for choosing the \"best\" reading at each variant point weighs both external evidence (which/how many/how old witnesses) and internal…",
+"tags": [
+"method"
+],
+"url": "library/tc-reasoned-eclecticism.html",
+"use_in_path": "This is the reasoning you'll actually be doing when you read a Metzger Textual Commentary entry — every UBS letter rating is the output of exactly this internal/external weighing process, made explicit."
+},
+{
+"slug": "tc-text-types-and-manuscript-families",
+"title": "Text-types and manuscript families",
+"type": "concept",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-textual-criticism",
+"one_line": "Manuscripts cluster into recognizable \"family\" patterns (Alexandrian, Byzantine, Western, Caesarean) based on shared readings, which is the raw data every text…",
+"tags": [
+"manuscripts",
+"transmission"
+],
+"url": "library/tc-text-types-and-manuscript-families.html",
+"use_in_path": "Knowing a variant's family distribution tells you whether it's an isolated scribal slip or a deep transmissional split — this is the raw material behind every apparatus entry and every UBS confidence rating."
+},
+{
+"slug": "learning-path",
+"title": "Greek Learning Path",
+"type": "guide",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Greek learning path (for Jacob)",
+"tags": [
+"curriculum",
+"learning-path"
+],
+"url": "library/learning-path.html",
+"use_in_path": ""
+},
+{
+"slug": "moc-greek-learning",
+"title": "moc-greek-learning",
+"type": "moc",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "",
+"one_line": "MOC — Koine Greek learning",
+"tags": [
+"moc",
+"greek"
+],
+"url": "library/moc-greek-learning.html",
+"use_in_path": ""
+},
+{
+"slug": "moc-nt-background",
+"title": "moc-nt-background",
+"type": "moc",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "",
+"one_line": "MOC — NT historical background",
+"tags": [
+"moc",
+"background"
+],
+"url": "library/moc-nt-background.html",
+"use_in_path": ""
+},
+{
+"slug": "moc-textual-criticism",
+"title": "moc-textual-criticism",
+"type": "moc",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "",
+"one_line": "MOC — Textual criticism",
+"tags": [
+"moc",
+"textual-criticism"
+],
+"url": "library/moc-textual-criticism.html",
+"use_in_path": ""
+},
+{
+"slug": "progress-log",
+"title": "Progress Log",
+"type": "guide",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Progress log (for Jacob)",
+"tags": [
+"tracking",
+"stage-0"
+],
+"url": "library/progress-log.html",
+"use_in_path": ""
+},
+{
+"slug": "abbott-smith-lexicon",
+"title": "A Manual Greek Lexicon of the New Testament (Abbott-Smith)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "free (public domain, archive.org)",
+"moc": "moc-greek-learning",
+"one_line": "A compact, free, public-domain NT lexicon — a workable BDAG substitute for a learner not ready to buy the full reference.",
+"tags": [
+"lexicon",
+"public-domain",
+"free"
+],
+"url": "library/abbott-smith-lexicon.html",
+"use_in_path": "Stage 2–3 — a free everyday lexicon while reading, before investing in BDAG; entries are short enough to check quickly without derailing a reading session, closer to a reader's-edition glossary in depth but covering the whole NT vocabulary."
+},
+{
+"slug": "ancient-language-institute-koine",
+"title": "Ancient Language Institute — Koine Greek",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "paid (~$400–600+ per semester-length live course)",
+"moc": "moc-greek-learning",
+"one_line": "Live, small-group online Koine Greek classes taught synchronously by instructors, structured like a real academic term.",
+"tags": [
+"live-course",
+"video",
+"paid"
+],
+"url": "library/ancient-language-institute-koine.html",
+"use_in_path": "Optional Stage 1–2 track for a learner who wants the accountability and live feedback of a real class rather than self-paced video — the \"video/course-driven\" option with the most classroom-like structure and cost to match."
+},
+{
+"slug": "athenaze-attic-caveat",
+"title": "Athenaze (and other Attic-Greek primers) — a caveat for Koine learners",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "paid (~$30–40 per volume; varies by edition/publisher)",
+"moc": "moc-greek-learning",
+"one_line": "Athenaze and similarly popular \"reading-first classical Greek\" textbooks teach Attic, not Koine — genuinely useful for grammar transfer but not a Koine reading…",
+"tags": [
+"caveat",
+"attic-greek",
+"orientation"
+],
+"url": "library/athenaze-attic-caveat.html",
+"use_in_path": "Not recommended as a primary resource for this learner's Koine-NT goal. Worth naming only so he doesn't mistake \"best-reviewed reading-first Greek textbook\" search results (which are dominated by Athenaze) for a Koine resource. Attic and Koine share most morphology and a large vocabulary core, so an Attic primer is not wasted time for a classicist, but it teaches a different (earlier, more literary) register, different particle usage, and some different case/mood idioms than NT Greek."
+},
+{
+"slug": "bdag",
+"title": "A Greek-English Lexicon of the New Testament and Other Early Christian Literature (BDAG)",
+"type": "source",
+"tier": "T1",
+"level": "reference",
+"cost": "paid (~$90–150 print; Logos/Accordance/Verbum digital often similar or cheaper on sale)",
+"moc": "moc-greek-learning",
+"one_line": "The field-standard NT Greek lexicon — the first reference to consult for a word's full attested range of meaning in the NT and contemporary literature.",
+"tags": [
+"lexicon",
+"reference",
+"paid"
+],
+"url": "library/bdag.html",
+"use_in_path": "Stage 4 (Reference/Advanced), used from Stage 3 onward for specific hard words — this is the lexicon to reach for once a word's meaning genuinely matters for interpretation, not for routine vocabulary building (use context and a reader's edition glossary for that). Danker also produced a cheaper, single-volume"
+},
+{
+"slug": "bg-beale-carson-nt-use-of-ot",
+"title": "Commentary on the New Testament Use of the Old Testament (Beale & Carson)",
+"type": "source",
+"tier": "T1",
+"level": "advanced",
+"cost": "paid (~$65)",
+"moc": "moc-nt-background",
+"one_line": "The essential reference for every OT quotation and allusion in the NT — indispensable once you notice a NT writer is quoting something.",
+"tags": [
+"septuagint",
+"old-testament-in-new",
+"reference",
+"academic-press"
+],
+"url": "library/bg-beale-carson-nt-use-of-ot.html",
+"use_in_path": "Consult the relevant book's chapter whenever you hit a clear OT quotation while reading the Greek NT (e.g. Matthew's fulfillment citations, Paul's catena in Romans 3, Hebrews' use of Psalms) — this is the primary tool for [[septuagint-and-the-nt]] in practice."
+},
+{
+"slug": "bg-bibleproject-nt-overviews",
+"title": "BibleProject New Testament overview videos",
+"type": "source",
+"tier": "T3",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-nt-background",
+"one_line": "Free animated book-overview videos — good for structural orientation only, not a scholarly source.",
+"tags": [
+"free",
+"video",
+"orient-only"
+],
+"url": "library/bg-bibleproject-nt-overviews.html",
+"use_in_path": "Watch a book's overview video *before* starting to read it in Greek, purely to get the macro-structure (where the argument turns, major sections) — never cite it for a historical-critical claim."
+},
+{
+"slug": "bg-brown-introduction-to-new-testament",
+"title": "An Introduction to the New Testament (Raymond Brown)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "paid (~$50; abridged student edition ~$35; used copies common)",
+"moc": "moc-nt-background",
+"one_line": "The Catholic historical-critical benchmark — dense, exhaustive per-book scholarly-debate summaries.",
+"tags": [
+"introduction",
+"catholic",
+"historical-critical",
+"reference"
+],
+"url": "library/bg-brown-introduction-to-new-testament.html",
+"use_in_path": "Use as a reference to consult per book rather than read cover-to-cover — go to its chapter on a given book when [[bg-ehrman-new-testament-historical-introduction]] or [[bg-wright-bird-new-testament-in-its-world]] disagree, since Brown typically lays out both sides before stating his own (moderate-critical) view."
+},
+{
+"slug": "bg-charlesworth-ot-pseudepigrapha",
+"title": "The Old Testament Pseudepigrapha (Charlesworth, ed.)",
+"type": "source",
+"tier": "T1",
+"level": "advanced",
+"cost": "paid (~$150–200 for the two-volume set; individual texts in library copies/JSTOR)",
+"moc": "moc-nt-background",
+"one_line": "The standard critical edition/translation of Second Temple Jewish apocalyptic and testamentary literature — the direct literary neighborhood of NT apocalyptic…",
+"tags": [
+"primary-source",
+"apocalyptic",
+"second-temple-judaism",
+"academic-press"
+],
+"url": "library/bg-charlesworth-ot-pseudepigrapha.html",
+"use_in_path": "Read the introduction and relevant excerpts of 1 Enoch before/alongside Jude (which quotes it directly) and the Synoptic apocalyptic discourses — status: queued for full ingestion (two-volume, PDF/print-only per this vault's text-native rule; catalog via secondary discussion in [[bg-ferguson-backgrounds-early-christianity]] and [[jewish-apocalyptic]] until specific excerpts are sourced online)."
+},
+{
+"slug": "bg-desilva-honor-patronage-kinship-purity",
+"title": "Honor, Patronage, Kinship & Purity (deSilva)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$28)",
+"moc": "moc-nt-background",
+"one_line": "The most accessible entry point to the \"cultural values\" reading of the NT (honor-shame, patronage, kinship, purity) with direct payoff for specific passages.",
+"tags": [
+"greco-roman-context",
+"honor-shame",
+"social-values"
+],
+"url": "library/bg-desilva-honor-patronage-kinship-purity.html",
+"use_in_path": "Read once, early, as orientation to [[honor-shame-culture]] before it recurs across many NT passages (patron-client language in Paul's letters, purity controversies in the Gospels, kinship-language for the church)."
+},
+{
+"slug": "bg-ehrman-new-testament-historical-introduction",
+"title": "The New Testament — A Historical Introduction (Ehrman)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$80–100 new; used/rental much cheaper; earlier eds. on Internet Archive)",
+"moc": "moc-nt-background",
+"one_line": "The standard secular-critical NT introduction — historical method taught by demonstration on every book.",
+"tags": [
+"introduction",
+"historical-critical",
+"textbook"
+],
+"url": "library/bg-ehrman-new-testament-historical-introduction.html",
+"use_in_path": "Read the relevant chapter before or alongside each Gospel/epistle in [[learning-path]]; it is the fastest way to get \"who wrote this, when, for whom, and what's disputed\" without wading through journal literature first."
+},
+{
+"slug": "bg-ferguson-backgrounds-early-christianity",
+"title": "Backgrounds of Early Christianity (Everett Ferguson)",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "paid (~$55)",
+"moc": "moc-nt-background",
+"one_line": "The single best one-volume survey of the whole Greco-Roman and Jewish world the NT was written into.",
+"tags": [
+"greco-roman-context",
+"reference",
+"academic-press"
+],
+"url": "library/bg-ferguson-backgrounds-early-christianity.html",
+"use_in_path": "Read relevant chapters as needed (e.g. \"Roman government\" before Romans/Acts trial scenes, \"Mystery religions\" before 1 Corinthians) rather than cover-to-cover; treat as the reference to consult when [[roman-imperial-context]] or a Greco-Roman-philosophy question comes up in the Greek text."
+},
+{
+"slug": "bg-jobes-silva-invitation-septuagint",
+"title": "Invitation to the Septuagint (Jobes & Silva)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "paid (~$40)",
+"moc": "moc-nt-background",
+"one_line": "The standard seminary-level textbook introduction to the Septuagint — origins, textual history, and its role behind the NT's Greek.",
+"tags": [
+"septuagint",
+"textbook",
+"greek"
+],
+"url": "library/bg-jobes-silva-invitation-septuagint.html",
+"use_in_path": "Read once you can handle basic Koine syntax, as a bridge between Greek-learning and [[septuagint-and-the-nt]] — it directly explains why NT quotations of the OT often don't match a modern English OT translation (which is usually from Hebrew)."
+},
+{
+"slug": "bg-johnson-writings-of-the-new-testament",
+"title": "The Writings of the New Testament (Luke Timothy Johnson)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "paid (~$50)",
+"moc": "moc-nt-background",
+"one_line": "A Catholic scholar's literary-and-theological intro — useful counterweight when Ehrman's history-only frame feels reductive.",
+"tags": [
+"introduction",
+"catholic",
+"literary-theological"
+],
+"url": "library/bg-johnson-writings-of-the-new-testament.html",
+"use_in_path": "Read Johnson's chapter on a book *after* the historical-background chapters (Ehrman/Brown) to see how a text's rhetoric and theology cohere as a first-century composition — useful once you're already tracking a book's Greek structure."
+},
+{
+"slug": "bg-josephus-whiston-perseus",
+"title": "Josephus — Antiquities & Jewish War (Whiston translation, Perseus)",
+"type": "source",
+"tier": "T2b",
+"level": "intermediate",
+"cost": "free",
+"moc": "moc-nt-background",
+"one_line": "Free, searchable public-domain translation of the essential first-century Jewish historian for NT political/religious background.",
+"tags": [
+"free",
+"primary-source",
+"second-temple-judaism"
+],
+"url": "library/bg-josephus-whiston-perseus.html",
+"use_in_path": "Grep specific passages when a NT background question is historical (Herod's building projects, the Sanhedrin's composition, the Jewish revolt, Pilate, John the Baptist, James \"brother of the Lord\") — read the relevant chapter directly rather than relying on secondary paraphrase, consistent with this vault's synopsize-not-republish rule for *your* notes."
+},
+{
+"slug": "bg-keener-ivp-bible-background-commentary",
+"title": "The IVP Bible Background Commentary — New Testament (Keener)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$45)",
+"moc": "moc-nt-background",
+"one_line": "The fastest-to-use verse-by-verse background lookup across the entire NT.",
+"tags": [
+"reference",
+"greco-roman-context",
+"second-temple-judaism"
+],
+"url": "library/bg-keener-ivp-bible-background-commentary.html",
+"use_in_path": "Keep open while reading the Greek text in [[learning-path]] — look up unfamiliar customs, place-names, or social practices as they come up verse by verse, rather than reading it as a book."
+},
+{
+"slug": "bg-malina-rohrbaugh-social-science-commentary",
+"title": "Social-Science Commentary on the Synoptic Gospels (Malina & Rohrbaugh)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "paid (~$40)",
+"moc": "moc-nt-background",
+"one_line": "Verse-by-verse application of Mediterranean social-science models to the Synoptics — influential, but its methodology itself is a live scholarly debate.",
+"tags": [
+"greco-roman-context",
+"honor-shame",
+"social-science-criticism",
+"contested"
+],
+"url": "library/bg-malina-rohrbaugh-social-science-commentary.html",
+"use_in_path": "Consult *after* [[bg-desilva-honor-patronage-kinship-purity]] gives the general framework — use this commentary to see the model applied to a specific pericope you're reading in Greek, but read it critically rather than as settled fact."
+},
+{
+"slug": "bg-nets-septuagint-online",
+"title": "NETS — A New English Translation of the Septuagint (free online)",
+"type": "source",
+"tier": "T2b",
+"level": "intermediate",
+"cost": "free",
+"moc": "moc-nt-background",
+"one_line": "The full Septuagint in English, free online — read the actual text NT authors usually quote from.",
+"tags": [
+"free",
+"primary-source",
+"septuagint"
+],
+"url": "library/bg-nets-septuagint-online.html",
+"use_in_path": "Whenever [[bg-beale-carson-nt-use-of-ot]] or a footnote flags a NT quotation as LXX-based, pull up the actual NETS text of that OT passage side-by-side with the NT Greek to see the wording match directly, rather than trusting a paraphrase."
+},
+{
+"slug": "bg-nt-pod-goodacre",
+"title": "NT Pod (Mark Goodacre)",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-nt-background",
+"one_line": "Short, focused podcast episodes by a named NT scholar on one question at a time — good low-effort supplement.",
+"tags": [
+"free",
+"podcast",
+"historical-critical"
+],
+"url": "library/bg-nt-pod-goodacre.html",
+"use_in_path": "Use as a commute/walk supplement — pick episodes matching whatever book you're currently reading in [[learning-path]]; not a substitute for a structured course but good for reinforcing specific debates."
+},
+{
+"slug": "bg-philo-yonge-works",
+"title": "The Works of Philo (Yonge translation)",
+"type": "source",
+"tier": "T2b",
+"level": "intermediate",
+"cost": "free",
+"moc": "moc-nt-background",
+"one_line": "Free translation of the major Hellenistic-Jewish philosopher contemporary with Jesus — the best window into Diaspora Jewish thought that shaped NT vocabulary (…",
+"tags": [
+"free",
+"primary-source",
+"second-temple-judaism",
+"hellenistic-judaism"
+],
+"url": "library/bg-philo-yonge-works.html",
+"use_in_path": "Sample *On the Creation* or *On the Life of Moses* when studying John's Logos prologue or Hebrews' Platonic-sounding language — Philo shows how an educated first-century Jew outside Palestine already blended biblical and Greek philosophical categories."
+},
+{
+"slug": "bg-powell-introducing-the-new-testament",
+"title": "Introducing the New Testament (Powell)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$45 new; free companion eSources online)",
+"moc": "moc-nt-background",
+"one_line": "A mainline-Protestant intro emphasizing literary/narrative reading alongside historical background, with a genuinely free companion site.",
+"tags": [
+"introduction",
+"narrative-critical",
+"textbook"
+],
+"url": "library/bg-powell-introducing-the-new-testament.html",
+"use_in_path": "Good first-read intro before specializing; the free \"eSources\" (bakeracademic.com) give chapter summaries, maps, and timelines useful for quick review between deeper background reading."
+},
+{
+"slug": "bg-sanders-judaism-practice-belief",
+"title": "Judaism — Practice and Belief, 63 BCE–66 CE (E.P. Sanders)",
+"type": "source",
+"tier": "T1",
+"level": "advanced",
+"cost": "paid (~$45; library-accessible)",
+"moc": "moc-nt-background",
+"one_line": "The landmark academic reconstruction of ordinary \"common Judaism\" in the period the NT was written — essential once you want more than a textbook paragraph.",
+"tags": [
+"second-temple-judaism",
+"academic-press"
+],
+"url": "library/bg-sanders-judaism-practice-belief.html",
+"use_in_path": "Read after a general intro (e.g. Powell/Ehrman), before tackling [[second-temple-judaism]] in depth or reading Paul's letters closely — Sanders is the source most other background books lean on for \"what did Second Temple Judaism actually look like.\""
+},
+{
+"slug": "bg-vermes-dead-sea-scrolls-english",
+"title": "The Complete Dead Sea Scrolls in English (Vermes)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "paid (~$20 paperback; earlier editions on Internet Archive)",
+"moc": "moc-nt-background",
+"one_line": "The standard accessible English translation of the Dead Sea Scrolls — the primary-source anchor for Second Temple Judaism.",
+"tags": [
+"primary-source",
+"second-temple-judaism",
+"translation"
+],
+"url": "library/bg-vermes-dead-sea-scrolls-english.html",
+"use_in_path": "Sample directly — read the Community Rule (1QS) and a Pesher (e.g. on Habakkuk) alongside [[second-temple-judaism]] and [[jewish-apocalyptic]] to see sectarian Jewish self-understanding contemporary with the NT."
+},
+{
+"slug": "bg-wright-bird-new-testament-in-its-world",
+"title": "The New Testament in Its World (Wright & Bird)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$60 new hardback; workbook sold separately)",
+"moc": "moc-nt-background",
+"one_line": "An evangelical-critical intro built around reconstructing the \"storied worldview\" a first-century reader brought to the text.",
+"tags": [
+"introduction",
+"worldview",
+"historical-critical"
+],
+"url": "library/bg-wright-bird-new-testament-in-its-world.html",
+"use_in_path": "Pair with [[bg-ehrman-new-testament-historical-introduction]] chapter-by-chapter to see where secular-critical and evangelical-critical readings converge vs. diverge — this is the deliberate divergence-rule pairing for the intro-textbook layer."
+},
+{
+"slug": "bg-yale-dale-martin-lectures",
+"title": "Introduction to the New Testament History and Literature (Open Yale, Dale Martin)",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-nt-background",
+"one_line": "A complete free undergraduate NT course on video from a named Yale scholar — the single best free entry point in this shard.",
+"tags": [
+"free",
+"video-course",
+"historical-critical"
+],
+"url": "library/bg-yale-dale-martin-lectures.html",
+"use_in_path": "Watch alongside reading each Gospel/epistle in Greek per [[learning-path]] — Martin lectures roughly in canonical/chronological order and explicitly teaches historical-critical method (Synoptic Problem, authorship debates, social setting), so pace lectures to match reading."
+},
+{
+"slug": "biblearc",
+"title": "Biblearc",
+"type": "source",
+"tier": "T2b",
+"level": "intermediate",
+"cost": "mixed (free tier; paid Study Bible/Equip courses ~$10–20/mo)",
+"moc": "moc-greek-learning",
+"one_line": "A web study-Bible platform with Greek text display, parsing pop-ups, and \"arcing/bracketing\" diagram tools for visualizing sentence structure.",
+"tags": [
+"reading-tool",
+"arcing",
+"mixed-cost"
+],
+"url": "library/biblearc.html",
+"use_in_path": "Stage 2–3 — the arcing/bracketing exercises are a genuinely reading-oriented way to internalize Greek clause structure and discourse flow (complements [[runge-discourse-grammar]]) rather than isolated parsing drills."
+},
+{
+"slug": "biblical-language-center-living-koine-greek",
+"title": "Living Koine Greek (Randall Buth / Biblical Language Center)",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "paid (~$150–300+ per part, audio course; live intensives extra)",
+"moc": "moc-greek-learning",
+"one_line": "A comprehension-based, spoken-immersion Koine course by linguist Randall Buth, teaching Greek the way modern languages are taught rather than through translati…",
+"tags": [
+"immersion",
+"audio",
+"course",
+"pronunciation"
+],
+"url": "library/biblical-language-center-living-koine-greek.html",
+"use_in_path": "Optional Stage 1–2 track for a learner who wants active/oral fluency alongside reading, not a replacement for grammar study. Best paired with, not instead of, a reading spine — it builds intuition for word order and aspect that grammar-translation methods (Mounce, Croy) approach more analytically."
+},
+{
+"slug": "biblicaltraining-mounce-nt201",
+"title": "NT201: Biblical Greek (BiblicalTraining.org, Mounce)",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free (create-account required)",
+"moc": "moc-greek-learning",
+"one_line": "A full free video course by Bill Mounce, hosted on the nonprofit BiblicalTraining.org platform, following the same first-year syllabus as his textbook.",
+"tags": [
+"course",
+"video",
+"free"
+],
+"url": "library/biblicaltraining-mounce-nt201.html",
+"use_in_path": "Stage 2 (Core Grammar) — the recommended video-course track for a learner who wants a full \"sit in the lecture hall\" experience rather than piecemeal YouTube clips. Follow week-by-week alongside reading in 1 John/Mark."
+},
+{
+"slug": "biblingo",
+"title": "Biblingo",
+"type": "source",
+"tier": "T3",
+"level": "beginner",
+"cost": "paid (subscription, ~$15–20/mo or discounted annual; tiers vary)",
+"moc": "moc-greek-learning",
+"one_line": "A subscription app teaching biblical Greek and Hebrew through comprehensible-input-style exercises and spaced repetition rather than flashcard lists alone.",
+"tags": [
+"app",
+"spaced-repetition",
+"paid"
+],
+"url": "library/biblingo.html",
+"use_in_path": "Optional Stage 1–2 supplement for a learner who wants gamified daily practice on a phone between reading sessions; not a substitute for a reader's edition or grammar."
+},
+{
+"slug": "billmounce-site",
+"title": "billmounce.com",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free (site/blog/videos); some products paid",
+"moc": "moc-greek-learning",
+"one_line": "Bill Mounce's own free hub — video lectures, vocabulary tools, and a weekly \"Monday with Mounce\" grammar column.",
+"tags": [
+"videos",
+"vocabulary",
+"free",
+"site"
+],
+"url": "library/billmounce-site.html",
+"use_in_path": "Stage 2 (Core Grammar) — watch lectures alongside the textbook for a course-driven learner; the video-driven complement to reading-first study. Also useful in Stage 3 for the \"Monday with Mounce\" close readings of individual NT words in context."
+},
+{
+"slug": "croy-primer-of-biblical-greek",
+"title": "A Primer of Biblical Greek (Croy)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$35–40, Eerdmans)",
+"moc": "moc-greek-learning",
+"one_line": "A compact, single-semester-paced alternative to Mounce, reaching a full overview of NT Greek morphology faster and with a lighter apparatus.",
+"tags": [
+"grammar",
+"textbook",
+"beginner"
+],
+"url": "library/croy-primer-of-biblical-greek.html",
+"use_in_path": "Stage 2 alternative to Mounce/Decker for a learner who wants a leaner, faster-paced grammar rather than a two-book grammar+workbook system — worth comparing tables of contents before committing, since switching mid-stream costs time."
+},
+{
+"slug": "daily-dose-of-greek",
+"title": "Daily Dose of Greek",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free (site/videos); app tier may add extras",
+"moc": "moc-greek-learning",
+"one_line": "Short daily videos that read one NT verse at a time in Greek, aimed at building a sustainable reading habit.",
+"tags": [
+"reading",
+"video",
+"free",
+"daily-practice"
+],
+"url": "library/daily-dose-of-greek.html",
+"use_in_path": "Stage 1 (Foundations, weeks 1–8) onward — the core reading-first daily habit once the alphabet is down; run in parallel with a reader's edition of 1 John or Mark so the verse discussed is the verse just read. Sustains momentum better than isolated grammar drills."
+},
+{
+"slug": "decker-reading-koine-greek",
+"title": "Reading Koine Greek (Decker)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$50–60, Baker Academic)",
+"moc": "moc-greek-learning",
+"one_line": "A first-year grammar built around continuous NT reading passages from the start, with an aspect-first (not tense-first) account of the verb.",
+"tags": [
+"grammar",
+"textbook",
+"aspect"
+],
+"url": "library/decker-reading-koine-greek.html",
+"use_in_path": "Stage 2 (Core Grammar) — the best-fit grammar for this learner's stated reading-first preference; consider it instead of or alongside [[mounce-basics-of-biblical-greek]] specifically because it reaches connected text faster and treats aspect (not just tense) as central, which a technical/systematic thinker will find conceptually cleaner."
+},
+{
+"slug": "funk-beginning-intermediate-grammar",
+"title": "A Beginning-Intermediate Grammar of Hellenistic Greek (Funk)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "free (archive.org scan)",
+"moc": "moc-greek-learning",
+"one_line": "Robert Funk's linguistically rigorous, freely available grammar bridging beginning and intermediate Koine Greek.",
+"tags": [
+"grammar",
+"open-access",
+"reference"
+],
+"url": "library/funk-beginning-intermediate-grammar.html",
+"use_in_path": "Stage 2–4 — a free alternative or supplement to Mounce/Decker/Croy for a learner comfortable with a denser, more linguistically technical presentation (a good fit for an engineering/CS background); also a bridge toward BDF, the standard T1 reference grammar for advanced syntax questions."
+},
+{
+"slug": "logeion",
+"title": "Logeion",
+"type": "source",
+"tier": "T2b",
+"level": "reference",
+"cost": "free",
+"moc": "moc-greek-learning",
+"one_line": "A free University of Chicago lexicon aggregator that shows LSJ, a Middle Liddell abridgment, and other dictionaries side by side for any Greek word.",
+"tags": [
+"lexicon",
+"tool",
+"free"
+],
+"url": "library/logeion.html",
+"use_in_path": "Stage 3–4 (Reading Fluency onward) — once NT-specific lexica (Abbott-Smith, BDAG) leave a word's broader classical/Koine range unclear, Logeion shows how a word is used across all of Greek literature, which is exactly the \"understand in context\" habit this learner wants instead of flashcards."
+},
+{
+"slug": "louw-nida-lexicon",
+"title": "Greek-English Lexicon of the New Testament Based on Semantic Domains (Louw-Nida)",
+"type": "source",
+"tier": "T1",
+"level": "advanced",
+"cost": "paid (~$70–100 for the 2-vol set; also in Bible software packages)",
+"moc": "moc-greek-learning",
+"one_line": "A lexicon organized by meaning-group (\"semantic domain\") rather than alphabetically, showing which NT words compete or overlap in a given conceptual space.",
+"tags": [
+"lexicon",
+"semantic-domains",
+"reference"
+],
+"url": "library/louw-nida-lexicon.html",
+"use_in_path": "Stage 4 (Reference/Advanced) — exactly the \"understand in context\" tool this learner wants over flashcards: instead of memorizing a word in isolation, look up its domain and see how NT authors distinguished it from near-synonyms (e.g., different Greek words for \"love,\" \"know,\" \"authority\")."
+},
+{
+"slug": "metzger-lexical-aids",
+"title": "Lexical Aids for Students of New Testament Greek (Metzger)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$15–20, Baker); also on Internet Archive for borrowing",
+"moc": "moc-greek-learning",
+"one_line": "A frequency-and-cognate-organized vocabulary reference — useful as a supporting index, not a spine, for a reading-first learner.",
+"tags": [
+"vocabulary",
+"frequency",
+"supporting-tool"
+],
+"url": "library/metzger-lexical-aids.html",
+"use_in_path": "Supporting reference only, used *after* meeting a word in actual reading (1 John, Mark, or wherever the reader's edition footnotes stopped covering it) — the learner should look a word up here to see its frequency and word-family, not memorize the list cover-to-cover, per this vault's context-over-lists principle."
+},
+{
+"slug": "mounce-basics-of-biblical-greek",
+"title": "Basics of Biblical Greek (Mounce)",
+"type": "source",
+"tier": "T2",
+"level": "beginner",
+"cost": "paid (~$35–45 grammar, ~$25 workbook, 4th ed.)",
+"moc": "moc-greek-learning",
+"one_line": "The most widely used first-year seminary Greek grammar, systematic and vocabulary-graded.",
+"tags": [
+"grammar",
+"textbook",
+"beginner"
+],
+"url": "library/mounce-basics-of-biblical-greek.html",
+"use_in_path": "Stage 2 (Core Grammar, weeks 9–24) — spine for systematic morphology once the alphabet and basic reading habit (Stage 1, via [[daily-dose-of-greek]] and a reader's edition) are in place. Pairs each chapter with graded exercises; supplement with real NT sentences early rather than waiting for the book's own reading passages, which arrive late."
+},
+{
+"slug": "open-greek-nt-datasets",
+"title": "Open Greek NT Datasets (MorphGNT, SBLGNT, OpenGNT, Nestle 1904)",
+"type": "source",
+"tier": "T2b",
+"level": "reference",
+"cost": "free (open licenses; see each repo for terms)",
+"moc": "moc-greek-learning",
+"one_line": "A cluster of freely licensed, machine-readable Greek NT texts with morphological tagging — the raw material for the far-off Greek→English scripture LLM goal, n…",
+"tags": [
+"dataset",
+"open-data",
+"far-off-goal"
+],
+"url": "library/open-greek-nt-datasets.html",
+"use_in_path": "Not part of the Stage 1–4 learning curriculum — catalogued for the project's far-off Greek→English LLM goal per SPEC. Worth knowing about now mainly because MorphGNT's tagging conventions are a good, free way to spot-check a parsing you're unsure of once past Stage 2."
+},
+{
+"slug": "perseus-digital-library",
+"title": "Perseus Digital Library",
+"type": "source",
+"tier": "T2b",
+"level": "intermediate",
+"cost": "free",
+"moc": "moc-greek-learning",
+"one_line": "Tufts University's open digital library of ancient Greek (and Latin) texts with click-to-parse morphological analysis for nearly every word.",
+"tags": [
+"reading-tool",
+"corpus",
+"free",
+"morphology"
+],
+"url": "library/perseus-digital-library.html",
+"use_in_path": "Stage 3–4 — useful once the learner wants to read Koine-adjacent or Second Temple Greek texts (Septuagint excerpts, Josephus, Philo) beyond the NT itself, or wants to see a word parsed in a wider non-NT corpus for contextual range. Its own NT text holdings are thin; pair with a reader's edition for the NT proper."
+},
+{
+"slug": "pronunciation-erasmian-vs-restored-koine",
+"title": "Pronunciation Systems for NT Greek (Erasmian vs. Restored Koine vs. Modern)",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free (article/guide)",
+"moc": "moc-greek-learning",
+"one_line": "A neutral overview of the three live pronunciation traditions a beginner must choose among, and what's actually at stake in each.",
+"tags": [
+"pronunciation",
+"orientation"
+],
+"url": "library/pronunciation-erasmian-vs-restored-koine.html",
+"use_in_path": "Decide once, early in Stage 1 — before habits form, since switching pronunciation later is costly. This learner's choice mostly matters for whether he trains with [[biblical-language-center-living-koine-greek]]/[[ancient-language-institute-koine]] (restored) or the Mounce/Daily-Dose-of-Greek mainstream (Erasmian); it does not affect reading comprehension or grammar."
+},
+{
+"slug": "runge-discourse-grammar",
+"title": "Discourse Grammar of the Greek New Testament (Runge)",
+"type": "source",
+"tier": "T2",
+"level": "intermediate",
+"cost": "paid (~$35–45, Lexham/Hendrickson)",
+"moc": "moc-greek-learning",
+"one_line": "A discourse-linguistics account of why NT Greek authors chose one word order, connective, or construction over another — the \"why this and not that\" layer abov…",
+"tags": [
+"discourse",
+"syntax",
+"intermediate"
+],
+"url": "library/runge-discourse-grammar.html",
+"use_in_path": "Stage 3 (Reading Fluency) — read once basic morphology and syntax are solid; it directly serves this learner's \"understand in context\" goal by explaining stylistic/structural choices verse-by-verse rather than adding more vocabulary or paradigms."
+},
+{
+"slug": "step-bible",
+"title": "STEP Bible (Tyndale House)",
+"type": "source",
+"tier": "T2b",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-greek-learning",
+"one_line": "A free scholarly Bible-study platform from Tyndale House, Cambridge, with tagged Greek texts, morphology, and lexicon lookups for reading-in-context.",
+"tags": [
+"interlinear",
+"tool",
+"free",
+"reading"
+],
+"url": "library/step-bible.html",
+"use_in_path": "Stage 1–3 — the default free \"look up this word/parsing without leaving the reading\" companion to a printed reader's edition ([[tyndale-house-greek-nt-readers-edition]] or [[ubs5-readers-edition]]). Good for verifying a guess about a form rather than as the primary reading surface."
+},
+{
+"slug": "tc-codex-sinaiticus-project",
+"title": "Codex Sinaiticus Project",
+"type": "source",
+"tier": "T1",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-textual-criticism",
+"one_line": "The complete digitized Codex Sinaiticus (4th c., one of the two oldest complete NT manuscripts), free online with transcription and translation.",
+"tags": [
+"manuscripts",
+"tool",
+"free"
+],
+"url": "library/tc-codex-sinaiticus-project.html",
+"use_in_path": "Beginner-friendly single-manuscript deep dive — pick a familiar passage and read it directly off a 4th-century page image with transcription support, a concrete anchor before abstract discussion of text-types."
+},
+{
+"slug": "tc-csntm",
+"title": "Center for the Study of New Testament Manuscripts (CSNTM)",
+"type": "source",
+"tier": "T1",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-textual-criticism",
+"one_line": "A free, high-resolution photographic archive of Greek NT manuscripts, founded by textual scholar Daniel B. Wallace — the most learner-friendly manuscript brows…",
+"tags": [
+"manuscripts",
+"tool",
+"free",
+"institution"
+],
+"url": "library/tc-csntm.html",
+"use_in_path": "Good early/beginner entry point — before you can read an apparatus, browsing CSNTM's manuscript photos and short manuscript profiles builds intuition for what \"a manuscript\" physically is (uncial vs. minuscule script, page condition, marginal notes)."
+},
+{
+"slug": "tc-ehrman-misquoting-jesus",
+"title": "Ehrman, \"Misquoting Jesus",
+"type": "source",
+"tier": "T3",
+"level": "beginner",
+"cost": "paid (~$15-18 paperback)",
+"moc": "moc-textual-criticism",
+"one_line": "The best-known popular book on NT textual criticism — historically accurate on the underlying facts, but its framing (\"changed the Bible\") is widely contested…",
+"tags": [
+"popular",
+"contested-framing"
+],
+"url": "library/tc-ehrman-misquoting-jesus.html",
+"use_in_path": "Optional, beginner-stage orientation only — read as motivation/context, not as a technical source; immediately pair with [[tc-hixson-gurry-myths-and-mistakes]] for the corrective side, and prefer this vault's own [[tc-major-disputed-passages]] concept note (built from UBS/Metzger primary sources) for the actual textual facts."
+},
+{
+"slug": "tc-evangelical-textual-criticism-blog",
+"title": "Evangelical Textual Criticism (ETC) blog",
+"type": "source",
+"tier": "T3",
+"level": "intermediate",
+"cost": "free",
+"moc": "moc-textual-criticism",
+"one_line": "A long-running, scholar-run group blog tracking current TC news, manuscript discoveries, and debates in near-real time — orient here, then verify against T1 so…",
+"tags": [
+"blog",
+"orient-only",
+"free"
+],
+"url": "library/tc-evangelical-textual-criticism-blog.html",
+"use_in_path": "Use throughout TC study as a current-awareness feed (new papyri finds, conference notes, book reviews, informal debate over CBGM/Byzantine priority) — never as a terminal citation for a load-bearing claim; follow its links back to the T1 book/article it references."
+},
+{
+"slug": "tc-hixson-gurry-myths-and-mistakes",
+"title": "Hixson & Gurry (eds.), \"Myths and Mistakes in New Testament Textual Criticism",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "paid (~$25-35, IVP Academic)",
+"moc": "moc-textual-criticism",
+"one_line": "A chapter-by-chapter correction of popular overstatements on both the \"Bible is corrupted\" and \"Bible is perfectly preserved\" sides — good calibration reading.",
+"tags": [
+"textbook",
+"myth-busting",
+"intermediate"
+],
+"url": "library/tc-hixson-gurry-myths-and-mistakes.html",
+"use_in_path": "Read early-to-mid in TC study, right after or alongside [[tc-metzger-ehrman-text-of-the-new-testament]], specifically to inoculate against both popular-apologetics overclaiming and popular-skeptic overclaiming (including some claims in [[tc-ehrman-misquoting-jesus]]) before you've built the apparatus literacy to check primary sources yourself."
+},
+{
+"slug": "tc-metzger-ehrman-text-of-the-new-testament",
+"title": "Metzger & Ehrman, \"The Text of the New Testament\" (4th ed.)",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "paid (~$35-50; used copies cheaper)",
+"moc": "moc-textual-criticism",
+"one_line": "The standard graduate-level survey of NT textual criticism — history of transmission, manuscript families, and method — the field's default textbook.",
+"tags": [
+"textbook",
+"transmission-history"
+],
+"url": "library/tc-metzger-ehrman-text-of-the-new-testament.html",
+"use_in_path": "Read cover-to-cover once comfortable with basic Greek reading (~month 6-9) as the backbone text for [[tc-text-types-and-manuscript-families]] and transmission history generally, before or alongside NA28 apparatus practice."
+},
+{
+"slug": "tc-metzger-textual-commentary-gnt",
+"title": "Metzger, \"A Textual Commentary on the Greek New Testament\" (UBS)",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "paid (~$40-60)",
+"moc": "moc-textual-criticism",
+"one_line": "The essential companion to NA28/UBS5 — explains, verse by verse, why the UBS committee chose each rated reading over its rivals.",
+"tags": [
+"reference",
+"apparatus-companion"
+],
+"url": "library/tc-metzger-textual-commentary-gnt.html",
+"use_in_path": "Read the relevant entry every time you hit a UBS-flagged variant in real reading — this is the single highest-leverage habit for this learner's stated goal (\"read the NA28 apparatus with Metzger's Commentary beside it\"), ideally starting once apparatus symbols are familiar (~month 6+)."
+},
+{
+"slug": "tc-na28-novum-testamentum-graece",
+"title": "Novum Testamentum Graece (NA28)",
+"type": "source",
+"tier": "T1",
+"level": "reference",
+"cost": "paid (~$45-70 print; included in most Greek software)",
+"moc": "moc-textual-criticism",
+"one_line": "The standard scholarly Greek NT text and apparatus used in nearly all seminaries and critical scholarship since 2012.",
+"tags": [
+"critical-edition",
+"greek-text"
+],
+"url": "library/tc-na28-novum-testamentum-graece.html",
+"use_in_path": "Terminal reference from ~month 6+ of Greek onward — read the running text alongside [[tc-metzger-textual-commentary-gnt]] to interpret the apparatus. Not a first reading text (footnotes assume apparatus literacy)."
+},
+{
+"slug": "tc-ntvmr-intf-ecm",
+"title": "NTVMR (New Testament Virtual Manuscript Room) and the Editio Critica Maior",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "free",
+"moc": "moc-textual-criticism",
+"one_line": "Münster's INTF hosts the field's primary online manuscript database and the in-progress Editio Critica Maior (ECM), the most exhaustive critical edition being…",
+"tags": [
+"manuscripts",
+"tool",
+"free",
+"institution"
+],
+"url": "library/tc-ntvmr-intf-ecm.html",
+"use_in_path": "Once you can read an apparatus entry, use NTVMR to look up an actual manuscript image for a variant you're studying — closes the loop from printed apparatus siglum to physical page. Advanced/technical users can explore the CBGM tool interface directly."
+},
+{
+"slug": "tc-parker-introduction-nt-manuscripts",
+"title": "Parker, \"An Introduction to the New Testament Manuscripts and Their Texts",
+"type": "source",
+"tier": "T1",
+"level": "advanced",
+"cost": "paid (~$50-60; Cambridge UP)",
+"moc": "moc-textual-criticism",
+"one_line": "A more advanced, manuscript-centered alternative/supplement to Metzger & Ehrman, from a scholar who argues the NT text should be understood as a living, plural…",
+"tags": [
+"textbook",
+"manuscripts",
+"advanced"
+],
+"url": "library/tc-parker-introduction-nt-manuscripts.html",
+"use_in_path": "Read after [[tc-metzger-ehrman-text-of-the-new-testament]], once you want a second, more technical treatment and exposure to Parker's own influential (and `contested`) \"living text\" view — that textual plurality is a feature of early Christian textual culture, not simply corruption to be resolved to one original."
+},
+{
+"slug": "tc-robinson-pierpont-byzantine-textform",
+"title": "The New Testament in the Original Greek: Byzantine Textform (Robinson-Pierpont)",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "free (digital); print available",
+"moc": "moc-textual-criticism",
+"one_line": "The standard modern edition of the Byzantine/Majority text tradition, free online, representing the methodological alternative to NA/UBS reasoned eclecticism.",
+"tags": [
+"critical-edition",
+"greek-text",
+"free",
+"byzantine-priority"
+],
+"url": "library/tc-robinson-pierpont-byzantine-textform.html",
+"use_in_path": "Read this only after you're comfortable with NA28/UBS5, specifically to understand [[tc-byzantine-priority-debate]] from a primary text rather than secondhand — compare a disputed verse (e.g., Mark 16:9-20, the Comma Johanneum) side-by-side with NA28."
+},
+{
+"slug": "tc-sblgnt",
+"title": "SBL Greek New Testament (SBLGNT)",
+"type": "source",
+"tier": "T1",
+"level": "beginner",
+"cost": "free",
+"moc": "moc-textual-criticism",
+"one_line": "A free, born-digital critical Greek NT text, ideal as the everyday reading text before you're ready for NA28's apparatus.",
+"tags": [
+"critical-edition",
+"greek-text",
+"free"
+],
+"url": "library/tc-sblgnt.html",
+"use_in_path": "Default reading text from early Greek (month 2-3 onward) through intermediate — no license fee, clean Unicode font, works with any reader/parser. Switch primary study text to NA28 once ready for full-apparatus work."
+},
+{
+"slug": "tc-tyndale-house-greek-new-testament",
+"title": "The Greek New Testament, Produced at Tyndale House (THGNT)",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "free online (print ~$25-40)",
+"moc": "moc-textual-criticism",
+"one_line": "A fresh, independently-edited 2017 critical text that leans closer to early manuscript spelling/paragraphing conventions than NA/UBS, free to read online.",
+"tags": [
+"critical-edition",
+"greek-text",
+"free"
+],
+"url": "library/tc-tyndale-house-greek-new-testament.html",
+"use_in_path": "Read alongside SBLGNT/NA28 once past beginner stage to see where independent editorial judgment diverges from NA28/UBS5 — useful for noticing that \"the\" critical text is not monolithic."
+},
+{
+"slug": "tc-ubs5-greek-new-testament",
+"title": "The Greek New Testament, 5th ed. (UBS5)",
+"type": "source",
+"tier": "T1",
+"level": "reference",
+"cost": "paid (~$35-60 print; bundled in Bible software)",
+"moc": "moc-textual-criticism",
+"one_line": "The same critical text as NA28, formatted for translators with a simplified apparatus and letter-grade confidence ratings (A-D).",
+"tags": [
+"critical-edition",
+"greek-text"
+],
+"url": "library/tc-ubs5-greek-new-testament.html",
+"use_in_path": "Use *alongside* NA28 once reading full apparatus entries — UBS5's letter grades are the fastest way to gauge how settled a given reading is, referenced throughout [[tc-major-disputed-passages]]."
+},
+{
+"slug": "tc-wasserman-gurry-cbgm",
+"title": "Wasserman & Gurry, \"A New Approach to Textual Criticism: An Introduction to the CBGM",
+"type": "source",
+"tier": "T1",
+"level": "advanced",
+"cost": "paid (~$35-45, SBL Press; not open access)",
+"moc": "moc-textual-criticism",
+"one_line": "The best available plain-language introduction to the CBGM's graph-theoretic method — likely the single most appealing text-critical resource for this learner'…",
+"tags": [
+"textbook",
+"cbgm",
+"advanced"
+],
+"url": "library/tc-wasserman-gurry-cbgm.html",
+"use_in_path": "Read once you understand basic textual criticism (after [[tc-metzger-ehrman-text-of-the-new-testament]]) and want the technical mechanics of [[tc-cbgm]] — frame it explicitly as \"a coherence graph over witnesses, with local stemmata per variation unit and iterative refinement toward pre-genealogical coherence,\" which will map naturally onto graph-algorithm intuition."
+},
+{
+"slug": "tc-westcott-hort-nestle1904",
+"title": "Westcott-Hort (1881) and Nestle 1904 — public-domain critical texts",
+"type": "source",
+"tier": "T1",
+"level": "intermediate",
+"cost": "free (public domain)",
+"moc": "moc-textual-criticism",
+"one_line": "The two historically pivotal Alexandrian-leaning editions that founded modern textual criticism and underlie NA/UBS's lineage — both fully public domain.",
+"tags": [
+"critical-edition",
+"greek-text",
+"free",
+"history-of-scholarship"
+],
+"url": "library/tc-westcott-hort-nestle1904.html",
+"use_in_path": "Read after NA28/apparatus literacy, as history-of-scholarship background for [[tc-text-types-and-manuscript-families]] — useful to see how little the base text has moved since 1881 versus how much apparatus/method has advanced."
+},
+{
+"slug": "tyndale-house-greek-nt-readers-edition",
+"title": "The Greek New Testament, Produced at Tyndale House, Cambridge — Reader's Edition",
+"type": "source",
+"tier": "T1",
+"level": "beginner",
+"cost": "paid (~$40–50 hardcover, Crossway)",
+"moc": "moc-greek-learning",
+"one_line": "A fresh critical Greek NT edition from Tyndale House with running footnote glosses of rare vocabulary, designed to be read rather than parsed.",
+"tags": [
+"critical-text",
+"reader",
+"book"
+],
+"url": "library/tyndale-house-greek-nt-readers-edition.html",
+"use_in_path": "Stage 1–2 spine text. Start 1 John and Mark in this edition once the alphabet is secure — the footnote glosses remove the need to stop and look up every rare word, which is the whole point of reading-first acquisition."
+},
+{
+"slug": "ubs5-readers-edition",
+"title": "UBS5 Greek New Testament, Reader's Edition",
+"type": "source",
+"tier": "T1",
+"level": "beginner",
+"cost": "paid (~$40–55, German Bible Society / Deutsche Bibelgesellschaft)",
+"moc": "moc-greek-learning",
+"one_line": "The standard UBS5 critical text with footnote glosses for infrequent words, the direct sibling of the widely-known Zondervan Reader's Greek New Testament.",
+"tags": [
+"critical-text",
+"reader",
+"book"
+],
+"url": "library/ubs5-readers-edition.html",
+"use_in_path": "Stage 1–2, interchangeable with [[tyndale-house-greek-nt-readers-edition]] as the reading spine; pick one text tradition (UBS5/NA28 mainstream vs. Tyndale House's distinct method) and stay with it for consistency, cross-checking the other later once textual criticism becomes a topic."
+},
+{
+"slug": "wallace-greek-grammar-beyond-basics",
+"title": "Greek Grammar Beyond the Basics (Wallace)",
+"type": "source",
+"tier": "T2",
+"level": "advanced",
+"cost": "paid (~$50–55, Zondervan)",
+"moc": "moc-greek-learning",
+"one_line": "The standard intermediate/advanced NT Greek syntax reference — an exegetical grammar organized by grammatical category with copious NT examples.",
+"tags": [
+"reference-grammar",
+"syntax",
+"intermediate"
+],
+"url": "library/wallace-greek-grammar-beyond-basics.html",
+"use_in_path": "Stage 4 (Reference/Advanced) — not a first read cover-to-cover; consult it the way one consults a reference grammar, when a specific construction met in reading (e.g., \"why is this genitive translated as 'of'?\") needs a systematic answer. Its example-driven format actually supports reading-first study well precisely because each entry starts from real text."
+},
+{
+"slug": "start-here",
+"title": "Start Here",
+"type": "guide",
+"tier": "",
+"level": "",
+"cost": "",
+"moc": "moc-greek-learning",
+"one_line": "Start here (Stage 0 kickoff for Jacob)",
+"tags": [
+"onboarding",
+"stage-0"
+],
+"url": "library/start-here.html",
+"use_in_path": ""
+}
+]
